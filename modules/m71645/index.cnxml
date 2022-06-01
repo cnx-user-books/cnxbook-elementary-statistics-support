@@ -1,0 +1,564 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Linear Inequalities and Interval Notation</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m71645</md:content-id>
+  <md:title>Linear Inequalities and Interval Notation</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Graph inequalities on the number line</item>
+<item>Solve inequalities using the Subtraction and Addition Properties of inequality</item>
+<item>Solve inequalities using the Division and Multiplication Properties of inequality</item>
+<item>Solve inequalities that require simplification</item>
+<item>Translate to an inequality and solve</item>
+</list></md:abstract>
+  <md:uuid>54ffae12-d157-4ab0-aec9-8599adf2e581</md:uuid>
+</metadata>
+
+<content>
+<note id="fs-id1168342179806" class="be-prepared">
+<para id="fs-id1168345288212">Before you get started, take this readiness quiz.</para>
+<list id="fs-id1168345430514" list-type="enumerated" number-style="arabic">
+<item>Translate from algebra to English: <m:math><m:mrow><m:mn>15</m:mn><m:mo>&gt;</m:mo><m:mi>x</m:mi></m:mrow></m:math>.<newline/>
+If you missed this problem, review <link target-id="fs-id1170655113222" document="m60247"/>.</item>
+<item>Solve: <m:math><m:mrow><m:mi>n</m:mi><m:mo>−</m:mo><m:mn>9</m:mn><m:mo>=</m:mo><m:mn>−42</m:mn><m:mo>.</m:mo></m:mrow></m:math><newline/>
+If you missed this problem, review <link target-id="fs-id1168345390064" document="m60258"/>.</item>
+<item>Solve: <m:math><m:mrow><m:mn>−5</m:mn><m:mi>p</m:mi><m:mo>=</m:mo><m:mn>−23</m:mn><m:mo>.</m:mo></m:mrow></m:math><newline/>
+If you missed this problem, review <link target-id="fs-id1168344337607" document="m60249"/>.</item>
+<item>Solve: <m:math><m:mrow><m:mn>3</m:mn><m:mi>a</m:mi><m:mo>−</m:mo><m:mn>12</m:mn><m:mo>=</m:mo><m:mn>7</m:mn><m:mi>a</m:mi><m:mo>−</m:mo><m:mn>20</m:mn><m:mo>.</m:mo></m:mrow></m:math><newline/>
+If you missed this problem, review <link target-id="fs-id1168344315853" document="m60262"/>.</item>
+</list>
+</note>
+<section id="fs-id1168345725112">
+<title>Graph Inequalities on the Number Line</title>
+<para id="fs-id1168345197716">Do you remember what it means for a number to be a solution to an equation? A solution of an equation is a value of a variable that makes a true statement when substituted into the equation.</para>
+<para id="fs-id1168345465826">What about the solution of an inequality? What number would make the inequality <m:math><m:mrow><m:mi>x</m:mi><m:mo>&gt;</m:mo><m:mn>3</m:mn></m:mrow></m:math> true? Are you thinking, ‘<emphasis effect="italics">x</emphasis> could be 4’? That’s correct, but <emphasis effect="italics">x</emphasis> could be 5 too, or 20, or even 3.001. Any number greater than 3 is a solution to the inequality <m:math><m:mrow><m:mi>x</m:mi><m:mo>&gt;</m:mo><m:mn>3</m:mn></m:mrow></m:math>.</para>
+<para id="fs-id1168345507984">We show the solutions to the inequality <m:math><m:mrow><m:mi>x</m:mi><m:mo>&gt;</m:mo><m:mn>3</m:mn></m:mrow></m:math> on the number line by shading in all the numbers to the right of 3, to show that all numbers greater than 3 are solutions. Because the number 3 itself is not a solution, we put an open parenthesis at 3. The graph of <m:math><m:mrow><m:mi>x</m:mi><m:mo>&gt;</m:mo><m:mn>3</m:mn></m:mrow></m:math> is shown in <link target-id="CNX_ElemAlg_Ch02_Figure_02_07_001"/>. Please note that the following convention is used: light blue arrows point in the positive direction and dark blue arrows point in the negative direction.</para>
+<figure id="CNX_ElemAlg_Ch02_Figure_02_07_001">
+<media id="fs-id1168345484183" alt="This figure is a number line ranging from negative 5 to 5 with tick marks for each integer. The inequality x is greater than 3 is graphed on the number line, with an open parenthesis at x equals 3, and a red line extending to the right of the parenthesis.">
+<image mime-type="image/jpeg" src="../../media/CNX_ElemAlg_Figure_02_07_001_img.jpg"/>
+</media>
+<caption>The inequality <m:math><m:mrow><m:mi>x</m:mi><m:mo>&gt;</m:mo><m:mn>3</m:mn></m:mrow></m:math> is graphed on this number line.</caption>
+</figure>
+<para id="fs-id1168341909119">The graph of the inequality <m:math><m:mrow><m:mi>x</m:mi><m:mo>≥</m:mo><m:mn>3</m:mn></m:mrow></m:math> is very much like the graph of <m:math><m:mrow><m:mi>x</m:mi><m:mo>&gt;</m:mo><m:mn>3</m:mn></m:mrow></m:math>, but now we need to show that 3 is a solution, too. We do that by putting a bracket at <m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>3</m:mn></m:mrow></m:math>, as shown in <link target-id="CNX_ElemAlg_Ch02_Figure_02_07_002"/>.</para>
+<figure id="CNX_ElemAlg_Ch02_Figure_02_07_002">
+<media id="fs-id1168345414614" alt="This figure is a number line ranging from negative 5 to 5 with tick marks for each integer. The inequality x is greater than or equal to 3 is graphed on the number line, with an open bracket at x equals 3, and a red line extending to the right of the bracket.">
+<image mime-type="image/jpeg" src="../../media/CNX_ElemAlg_Figure_02_07_002.jpg"/>
+</media>
+<caption>The inequality <m:math><m:mrow><m:mi>x</m:mi><m:mo>≥</m:mo><m:mn>3</m:mn></m:mrow></m:math> is graphed on this number line.</caption>
+</figure>
+<para id="fs-id1168345255661">Notice that the open parentheses symbol, (, shows that the endpoint of the inequality is not included. The open bracket symbol, [, shows that the endpoint is included.</para>
+<example id="fs-id1168345677614">
+<exercise id="fs-id1168345422060">
+<problem id="fs-id1168345512685">
+<para id="fs-id1168345744388">Graph on the number line:</para>
+<para id="fs-id1168345273771"><span class="token">ⓐ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>≤</m:mo><m:mn>1</m:mn></m:mrow></m:math> <span class="token">ⓑ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>&lt;</m:mo><m:mn>5</m:mn></m:mrow></m:math> <span class="token">ⓒ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>&gt;</m:mo><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1168345723696">
+<title>Solution</title>
+<list id="fs-id1169751958730" list-type="enumerated" number-style="arabic" class="circled">
+<item><span class="token">ⓐ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>≤</m:mo><m:mn>1</m:mn></m:mrow></m:math><newline/>
+This means all numbers less than or equal to 1. We shade in all the numbers on the number line to the left of 1 and put a bracket at <m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>1</m:mn></m:mrow></m:math> to show that it is included.<newline/>
+<media id="fs-id1168345274106" alt="This figure is a number line ranging from negative 5 to 5 with tick marks for each integer. The inequality x is less than or equal to 1 is graphed on the number line, with an open bracket at x equals 1, and a red line extending to the left of the bracket.">
+<image mime-type="image/jpeg" src="../../media/CNX_ElemAlg_Figure_02_07_003_img.jpg"/>
+</media></item>
+<item><span class="token">ⓑ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>&lt;</m:mo><m:mn>5</m:mn></m:mrow></m:math><newline/>
+This means all numbers less than 5, but not including 5. We shade in all the numbers on the number line to the left of 5 and put a parenthesis at <m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>5</m:mn></m:mrow></m:math> to show it is not included.<newline/>
+<media id="fs-id1168345408217" alt="This figure is a number line ranging from negative 5 to 5 with tick marks for each integer. The inequality x is less than 5 is graphed on the number line, with an open parenthesis at x equals 5, and a red line extending to the right of the parenthesis.">
+<image mime-type="image/jpeg" src="../../media/CNX_ElemAlg_Figure_02_07_004_img.jpg"/>
+</media></item>
+<item><span class="token">ⓒ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>&gt;</m:mo><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow></m:math><newline/>
+This means all numbers greater than <m:math><m:mrow><m:mn>−1</m:mn></m:mrow></m:math>, but not including <m:math><m:mrow><m:mn>−1</m:mn></m:mrow></m:math>. We shade in all the numbers on the number line to the right of <m:math><m:mrow><m:mn>−1</m:mn></m:mrow></m:math>, then put a parenthesis at <m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>−1</m:mn></m:mrow></m:math> to show it is not included.<newline/>
+<media id="fs-id1168345452718" alt="This figure is a number line ranging from negative 5 to 5 with tick marks for each integer. The inequality x is greater than negative 1 is graphed on the number line, with an open parenthesis at x equals negative 1, and a red line extending to the right of the parenthesis.">
+<image mime-type="image/jpeg" src="../../media/CNX_ElemAlg_Figure_02_07_005_img.jpg"/>
+</media></item>
+</list>
+</solution>
+</exercise>
+</example>
+<note id="fs-id1168341959501" class="try">
+<exercise id="fs-id1168345414409">
+<problem id="fs-id1168345443645">
+<para id="fs-id1168345557090">Graph on the number line: <span class="token">ⓐ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>≤</m:mo><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow></m:math> <span class="token">ⓑ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>&gt;</m:mo><m:mn>2</m:mn></m:mrow></m:math> <span class="token">ⓒ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>&lt;</m:mo><m:mn>3</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1168345434561">
+<list id="fs-id1169753969550" list-type="enumerated" number-style="arabic" class="circled">
+<item><span class="token">ⓐ</span><newline/><media id="fs-id1168342104215" alt="This figure is a number line ranging from negative 5 to 5 with tick marks for each integer. The inequality x is less than or equal to negative 1 is graphed on the number line, with an open bracket at x equals negative 1, and a dark line extending to the left of the bracket.">
+<image mime-type="image/jpeg" src="../../media/CNX_ElemAlg_Figure_02_07_006_img.jpg"/>
+</media></item>
+<item><span class="token">ⓑ</span><newline/><media id="fs-id1168345622953" alt="This figure is a number line ranging from negative 5 to 5 with tick marks for each integer. The inequality x is greater than 2 is graphed on the number line, with an open parenthesis at x equals 2, and a dark line extending to the right of the parenthesis.">
+<image mime-type="image/jpeg" src="../../media/CNX_ElemAlg_Figure_02_07_007_img.jpg"/>
+</media></item>
+<item><span class="token">ⓒ</span><newline/><media id="fs-id1168345687655" alt="This figure is a number line ranging from negative 5 to 5 with tick marks for each integer. The inequality x is less than 3 is graphed on the number line, with an open parenthesis at x equals 3, and a dark line extending to the left of the parenthesis.">
+<image mime-type="image/jpeg" src="../../media/CNX_ElemAlg_Figure_02_07_008_img.jpg"/>
+</media></item>
+</list>
+</solution>
+</exercise>
+</note>
+<note id="fs-id1168345260161" class="try">
+<exercise id="fs-id1168345447929">
+<problem id="fs-id1168345259507">
+<para id="fs-id1168345744968">Graph on the number line: <span class="token">ⓐ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>&gt;</m:mo><m:mo>−</m:mo><m:mn>2</m:mn></m:mrow></m:math> <span class="token">ⓑ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>&lt;</m:mo><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow></m:math> <span class="token">ⓒ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>≥</m:mo><m:mn>−1</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1168345443081">
+<list id="fs-id1169749521934" list-type="enumerated" number-style="arabic" class="circled">
+<item><span class="token">ⓐ</span><newline/><media id="fs-id1168345511701" alt="This figure is a number line ranging from negative 5 to 5 with tick marks for each integer. The inequality x is greater than negative 2 is graphed on the number line, with an open parenthesis at x equals negative 2, and a dark line extending to the right of the parenthesis.">
+<image mime-type="image/jpeg" src="../../media/CNX_ElemAlg_Figure_02_07_009_img.jpg"/>
+</media></item>
+<item><span class="token">ⓑ</span><newline/><media id="fs-id1168345435650" alt="This figure is a number line ranging from negative 5 to 5 with tick marks for each integer. The inequality x is less than negative 3 is graphed on the number line, with an open parenthesis at x equals negative 3, and a dark line extending to the left of the parenthesis.">
+<image mime-type="image/jpeg" src="../../media/CNX_ElemAlg_Figure_02_07_010_img.jpg"/>
+</media></item>
+<item><span class="token">ⓒ</span><newline/><media id="fs-id1168345302536" alt="This figure is a number line ranging from negative 5 to 5 with tick marks for each integer. The inequality x is greater than or equal to negative 1 is graphed on the number line, with an open bracket at x equals negative 1, and a dark line extending to the right of the bracket.">
+<image mime-type="image/jpeg" src="../../media/CNX_ElemAlg_Figure_02_07_011_img.jpg"/>
+</media></item>
+</list>
+</solution>
+</exercise>
+</note>
+<para id="fs-id1168345250830">We can also represent inequalities using <emphasis effect="italics">interval notation.</emphasis> As we saw above, the inequality <m:math><m:mrow><m:mi>x</m:mi><m:mo>&gt;</m:mo><m:mn>3</m:mn></m:mrow></m:math> means all numbers greater than 3. There is no upper end to the solution to this inequality. In <term class="no-emphasis">interval notation</term>, we express <m:math><m:mrow><m:mi>x</m:mi><m:mo>&gt;</m:mo><m:mn>3</m:mn></m:mrow></m:math> as <m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>3</m:mn><m:mo>,</m:mo><m:mi>∞</m:mi></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>.</m:mo></m:mrow></m:math> The symbol <m:math><m:mi>∞</m:mi></m:math> is read as ‘infinity’. It is not an actual number. <link target-id="CNX_ElemAlg_Ch02_Figure_02_07_012"/> shows both the number line and the interval notation.</para>
+<figure id="CNX_ElemAlg_Ch02_Figure_02_07_012">
+<media id="fs-id1168345439846" alt="This figure is a number line ranging from negative 5 to 5 with tick marks for each integer. The inequality x is greater than 3 is graphed on the number line, with an open parenthesis at x equals 3, and a red line extending to the right of the parenthesis. The inequality is also written in interval notation as parenthesis, 3 comma infinity, parenthesis.">
+<image mime-type="image/jpeg" src="../../media/CNX_ElemAlg_Figure_02_07_012.jpg"/>
+</media>
+<caption>The inequality <m:math><m:mrow><m:mi>x</m:mi><m:mo>&gt;</m:mo><m:mn>3</m:mn></m:mrow></m:math> is graphed on this number line and written in interval notation.</caption>
+</figure>
+<para id="fs-id1168345456146">The inequality <m:math><m:mrow><m:mi>x</m:mi><m:mo>≤</m:mo><m:mn>1</m:mn></m:mrow></m:math> means all numbers less than or equal to 1. There is no lower end to those numbers. We write <m:math><m:mrow><m:mi>x</m:mi><m:mo>≤</m:mo><m:mn>1</m:mn></m:mrow></m:math> in interval notation as <m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>−</m:mtext><m:mi>∞</m:mi><m:mo>,</m:mo><m:mrow><m:mn>1</m:mn><m:mo>]</m:mo></m:mrow></m:mrow></m:mrow></m:mrow></m:math>. The symbol <m:math><m:mrow><m:mtext>−</m:mtext><m:mi>∞</m:mi></m:mrow></m:math> is read as ‘negative infinity’. <link target-id="CNX_ElemAlg_Ch02_Figure_02_07_013"/> shows both the number line and interval notation.</para>
+<figure id="CNX_ElemAlg_Ch02_Figure_02_07_013">
+<media id="fs-id1168345241928" alt="This figure is a number line ranging from negative 5 to 5 with tick marks for each integer. The inequality x is less than or equal to 1 is graphed on the number line, with an open bracket at x equals 1, and a red line extending to the left of the bracket. The inequality is also written in interval notation as parenthesis, negative infinity comma 1, bracket.">
+<image mime-type="image/jpeg" src="../../media/CNX_ElemAlg_Figure_02_07_013.jpg"/>
+</media>
+<caption>The inequality <m:math><m:mrow><m:mi>x</m:mi><m:mo>≤</m:mo><m:mn>1</m:mn></m:mrow></m:math> is graphed on this number line and written in interval notation.</caption>
+</figure>
+<note id="fs-id1168345726490">
+<title>Inequalities, Number Lines, and Interval Notation</title>
+<media id="fs-id1168345291600" alt="This figure show four number lines, all without tick marks. The inequality x is greater than a is graphed on the first number line, with an open parenthesis at x equals a, and a red line extending to the right of the parenthesis. The inequality is also written in interval notation as parenthesis, a comma infinity, parenthesis. The inequality x is greater than or equal to a is graphed on the second number line, with an open bracket at x equals a, and a red line extending to the right of the bracket. The inequality is also written in interval notation as bracket, a comma infinity, parenthesis. The inequality x is less than a is graphed on the third number line, with an open parenthesis at x equals a, and a red line extending to the left of the parenthesis. The inequality is also written in interval notation as parenthesis, negative infinity comma a, parenthesis. The inequality x is less than or equal to a is graphed on the last number line, with an open bracket at x equals a, and a red line extending to the left of the bracket. The inequality is also written in interval notation as parenthesis, negative infinity comma a, bracket.">
+<image mime-type="image/jpeg" src="../../media/CNX_ElemAlg_Figure_02_07_014_img.jpg"/>
+</media>
+</note>
+<para id="fs-id1168341972839">Did you notice how the parenthesis or bracket in the interval notation matches the symbol at the endpoint of the arrow? These relationships are shown in <link target-id="CNX_ElemAlg_Ch02_Figure_02_07_015"/>.</para>
+<figure id="CNX_ElemAlg_Ch02_Figure_02_07_015">
+<media id="fs-id1168345623160" alt="This figure shows the same four number lines as above, with the same interval notation labels. Below the interval notation for each number line, there is text indicating how the notation on the number lines is similar to the interval notation. The first number line is a graph of x is greater than a, and the interval notation is parenthesis, a comma infinity, parenthesis. The text below reads: “Both have a left parenthesis.” The second number line is a graph of x is greater than or equal to a, and the interval notation is bracket, a comma infinity, parenthesis. The text below reads: “Both have a left bracket.” The third number line is a graph of x is less than a, and the interval notation is parenthesis, negative infinity comma a, parenthesis. The text below reads: “Both have a right parenthesis.” The last number line is a graph of x is less than or equal to a, and the interval notation is parenthesis, negative infinity comma a, bracket. The text below reads: “Both have a right bracket.”">
+<image mime-type="image/jpeg" src="../../media/CNX_ElemAlg_Figure_02_07_015.jpg"/>
+</media>
+<caption>The notation for inequalities on a number line and in interval notation use similar symbols to express the endpoints of intervals.</caption>
+</figure>
+<example id="fs-id1168345367673">
+<exercise id="fs-id1168345270935">
+<problem id="fs-id1168345239191">
+<para id="fs-id1168341847896">Graph on the number line and write in interval notation.</para>
+<para id="fs-id1168345550454"><span class="token">ⓐ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>≥</m:mo><m:mn>−3</m:mn></m:mrow></m:math> <span class="token">ⓑ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>&lt;</m:mo><m:mn>2.5</m:mn></m:mrow></m:math> <span class="token">ⓒ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>≤</m:mo><m:mo>−</m:mo><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1168345453189">
+<title>Solution</title>
+<list id="fs-id1169754090268" list-type="enumerated" number-style="arabic" class="circled">
+<item><span class="token">ⓐ</span><newline/>
+<table id="eip-id1168465214382" class="unnumbered unstyled can-break" summary="This figure has two columns, with written instructions on the left, and math on the right. At the top of the figure on the right is the inequality x is greater than or equal to negative 3. One line down on the left, the instructions say: “Shade to the right of negative 3, and put a bracket at negative 3.” To the right of this sentence is a number line ranging from negative 4 to negative 1, with tick marks at each integer. There is a bracket at negative 3 and a red line extends to the right from negative 3. Another line down on the left, the instructions say: “Write in interval notation.” To the right of this sentence is the interval notation: bracket, negative 3 comma infinity, parenthesis.">
+<label/><tgroup cols="2">
+<tbody>
+  <row>
+    <entry/>
+    <entry><media id="eip-id1168465214399" alt="."><image mime-type="image/png" src="../../media/CNX_ElemAlg_Figure_02_07_016a_img.jpg"/></media></entry>
+  </row>
+  <row>
+    <entry>Shade to the right of <m:math><m:mn>−3</m:mn></m:math>, and put a bracket at <m:math><m:mn>−3</m:mn></m:math>.</entry>
+    <entry><media id="eip-id1168465214426" alt="."><image mime-type="image/png" src="../../media/CNX_ElemAlg_Figure_02_07_016b_img.jpg"/></media></entry>
+  </row>
+  <row>
+    <entry>Write in interval notation.</entry>
+    <entry><media id="eip-id1168465214443" alt="."><image mime-type="image/png" src="../../media/CNX_ElemAlg_Figure_02_07_016c_img.jpg"/></media></entry>
+  </row>
+ </tbody>
+</tgroup>
+</table></item>
+<item><newline/><span class="token">ⓑ</span><newline/><table id="eip-id1168463870324" class="unnumbered unstyled can-break" summary="This figure has two columns, with written instructions on the left, and math on the right. At the top of the figure on the right is the inequality x is less than 2.5. One line down on the left, the instructions say: “Shade to the left of 2.5, and put a parenthesis at 2.5.” To the right of this sentence is a number line ranging from 0 to 3, with tick marks at each integer. There is a parenthesis at 2.5 (written in) and a red line extends to the left from 2.5. Another line down on the left, the instructions say: “Write in interval notation.” To the right of this sentence is the interval notation: parenthesis, negative infinity comma 2.5, parethesis."><label/>
+<tgroup cols="2"><tbody>
+  <row>
+    <entry/>
+    <entry><media id="eip-id1168463870342" alt="."><image mime-type="image/png" src="../../media/CNX_ElemAlg_Figure_02_07_017a_img.jpg"/></media></entry>
+  </row>
+  <row>
+    <entry>Shade to the left of <m:math><m:mn>2.5</m:mn></m:math>, and put a parenthesis at <m:math><m:mn>2.5</m:mn></m:math>.</entry>
+    <entry><media id="eip-id1168463870368" alt="."><image mime-type="image/png" src="../../media/CNX_ElemAlg_Figure_02_07_017b_img.jpg"/></media></entry>
+  </row>
+  <row>
+    <entry>Write in interval notation.</entry>
+    <entry><media id="eip-id1168463870385" alt="."><image mime-type="image/png" src="../../media/CNX_ElemAlg_Figure_02_07_017c_img.jpg"/></media></entry>
+  </row>
+ </tbody>
+
+</tgroup>
+</table></item>
+<item><newline/><span class="token">ⓒ</span><newline/><table id="eip-id1168465191280" class="unnumbered unstyled can-break" summary="This figure has two columns, with written instructions on the left, and math on the right. At the top of the figure on the right is the inequality x is less than or equal to negative 3/5. One line down on the left, the instructions say: “Shade to the left of negative 3/5, and put a bracket at negative 3/5.” To the right of this sentence is a number line ranging from negative 2 to 1, with tick marks at each integer. There is a bracket at negative 3/5 (written in) and a red line extends to the left from negative 3/5. Another line down on the left, the instructions say: “Write in interval notation.” To the right of this sentence is the interval notation: parenthesis, negative infinity comma negative three fifths, bracket.">
+<label/><tgroup cols="2">
+<tbody>
+  <row>
+    <entry/>
+    <entry><media id="eip-id1168465191297" alt="."><image mime-type="image/png" src="../../media/CNX_ElemAlg_Figure_02_07_018a_img.jpg"/></media></entry>
+  </row>
+  <row>
+    <entry>Shade to the left of <m:math><m:mo>−</m:mo><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac></m:math>, and put a bracket at <m:math><m:mo>−</m:mo><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac></m:math>.</entry>
+    <entry><media id="eip-id1168465191334" alt="."><image mime-type="image/png" src="../../media/CNX_ElemAlg_Figure_02_07_018b_img.jpg"/></media></entry>
+  </row>
+  <row>
+    <entry>Write in interval notation.</entry>
+    <entry><media id="eip-id1168465191352" alt="."><image mime-type="image/png" src="../../media/CNX_ElemAlg_Figure_02_07_018c_img.jpg"/></media></entry>
+  </row>
+ </tbody>
+</tgroup>
+</table></item>
+</list></solution>
+</exercise>
+</example>
+<note id="fs-id1168345298205" class="try">
+<exercise id="fs-id1168345326015">
+<problem id="fs-id1168345420817">
+<para id="fs-id1168345407937">Graph on the number line and write in interval notation:</para>
+<para id="fs-id1168345297606"><span class="token">ⓐ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>&gt;</m:mo><m:mn>2</m:mn></m:mrow></m:math> <newline/><span class="token">ⓑ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>≤</m:mo><m:mo>−</m:mo><m:mn>1.5</m:mn></m:mrow></m:math> <newline/><span class="token">ⓒ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>≥</m:mo><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:math></para></problem>
+<solution id="fs-id1168345291328">
+<list id="fs-id1169754130343" list-type="enumerated" number-style="arabic" class="circled">
+<item><span class="token">ⓐ</span><newline/>
+<media id="fs-id1168345448172" alt="This figure is a number line ranging from negative 5 to 5 with tick marks for each integer. The inequality x is greater than 2 is graphed on the number line, with an open parenthesis at x equals 2, and a dark line extending to the right of the parenthesis. The inequality is also written in interval notation as parenthesis, 2 comma infinity, parenthesis.">
+<image mime-type="image/jpeg" src="../../media/CNX_ElemAlg_Figure_02_07_019_img.jpg"/>
+</media></item>
+<item><span class="token">ⓑ</span><newline/>
+<media id="fs-id1168345579989" alt="This figure is a number line ranging from negative 5 to 5 with tick marks for each integer. The inequality x is less than or equal to negative 1.5 is graphed on the number line, with an open bracket at x equals negative 1.5, and a dark line extending to the left of the bracket. The inequality is also written in interval notation as parenthesis, negative infinity comma negative 1.5, bracket.">
+<image mime-type="image/jpeg" src="../../media/CNX_ElemAlg_Figure_02_07_020_img.jpg"/>
+</media></item>
+<item><span class="token">ⓒ</span><newline/><media id="fs-id1168345435633" alt="This figure is a number line ranging from negative 5 to 5 with tick marks for each integer. The inequality x is greater than or equal to 3/4 is graphed on the number line, with an open bracket at x equals 3/4, and a dark line extending to the right of the bracket. The inequality is also written in interval notation as bracket, 3/4 comma infinity, parenthesis.">
+<image mime-type="image/jpeg" src="../../media/CNX_ElemAlg_Figure_02_07_021_img.jpg"/>
+</media></item>
+</list>
+</solution>
+</exercise>
+</note>
+<note id="fs-id1168345273790" class="try">
+<exercise id="fs-id1168341916032">
+<problem id="fs-id1168345230120">
+<para id="fs-id1168345635205">Graph on the number line and write in interval notation:</para>
+<para id="fs-id1168345461896"><span class="token">ⓐ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>≤</m:mo><m:mo>−</m:mo><m:mn>4</m:mn></m:mrow></m:math> <newline/><span class="token">ⓑ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>≥</m:mo><m:mn>0.5</m:mn></m:mrow></m:math> <newline/><span class="token">ⓒ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>&lt;</m:mo><m:mo>−</m:mo><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:math></para></problem>
+<solution id="fs-id1168345428523">
+<list id="fs-id1169752181958" list-type="enumerated" number-style="arabic" class="circled">
+<item><span class="token">ⓐ</span><newline/>
+<media id="fs-id1168341959893" alt="This figure is a number line ranging from negative 5 to 5 with tick marks for each integer. The inequality x is less than or equal to negative 4 is graphed on the number line, with an open bracket at x equals negative 4, and a dark line extending to the left of the bracket. The inequality is also written in interval notation as parenthesis, negative infinity comma negative 4, bracket.">
+<image mime-type="image/jpeg" src="../../media/CNX_ElemAlg_Figure_02_07_022_img.jpg"/>
+</media></item>
+<item><span class="token">ⓑ</span><newline/>
+<media id="fs-id1168345301934" alt="This figure is a number line ranging from negative 5 to 5 with tick marks for each integer. The inequality x is greater than or equal to 0.5 is graphed on the number line, with an open bracket at x equals 0.5, and a dark line extending to the right of the bracket. The inequality is also written in interval notation as bracket, o.5 comma infinity, parenthesis.">
+<image mime-type="image/jpeg" src="../../media/CNX_ElemAlg_Figure_02_07_023_img.jpg"/>
+</media></item>
+<item><span class="token">ⓒ</span><newline/>
+<media id="fs-id1168345645024" alt="This figure is a number line ranging from negative 5 to 5 with tick marks for each integer. The inequality x is less than negative 2/3 is graphed on the number line, with an open parenthesis at x equals negative 2/3, and a dark line extending to the left of the parenthesis. The inequality is also written in interval notation as parenthesis, negative infinity comma negative 2/3, parenthesis.">
+<image mime-type="image/jpeg" src="../../media/CNX_ElemAlg_Figure_02_07_024.jpg"/>
+</media></item>
+</list>
+</solution>
+</exercise>
+</note>
+</section>
+<section id="fs-id1168345500407">
+<title>Translate to an Inequality and Solve</title>
+<para id="fs-id1168345253149">To translate English sentences into inequalities, we need to recognize the phrases that indicate the inequality. Some words are easy, like ‘more than’ and ‘less than’. But others are not as obvious.</para>
+<para id="fs-id1168342101872">Think about the phrase ‘at least’ – what does it mean to be ‘at least 21 years old’? It means 21 or more. The phrase ‘at least’ is the same as ‘greater than or equal to’.</para>
+<para id="fs-id1168345423772"><link target-id="fs-id1168345688476"/> shows some common phrases that indicate inequalities.</para>
+<table id="fs-id1168345688476" summary="This figure is a table with four columns and five rows. The first row, which is a header row, contains inequality symbols. Starting from the first cell to the left, the symbols left to right are: the symbols are is greater than, is greater than or equal to, is less than, and is less than or equal to. Below the header row in the first column are words or phrases that indicate the symbol is greater than. Starting from the second row and going down, these words and phrases are: “is greater than,” “is more than,” “is larger than,” and “exceeds.” Below the header row in the second column are phrases that indicate the symbol is greater than or equal to. Starting from the second row and going down, these phrases are: “greater than or equal to,” “is at least,” “is no less than,” and “is the minimum.” Below the header row in the third column are phrases that indicate the symbol is less than. Starting from the second row and going down, these phrases are: “is less than,” “is smaller than,” “has fewer than,” and “is lower than.” Below the header row in the last column are phrases that indicate the symbol is less than or equal to. Starting from the second row and going down, these phrases are: “is less than or equal to,” “is at most,” “is no more than,” and “is the maximum.”">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry valign="middle" align="center"><m:math><m:mo>&gt;</m:mo></m:math></entry>
+<entry valign="middle" align="center"><m:math><m:mo>≥</m:mo></m:math></entry>
+<entry valign="middle" align="center"><m:math><m:mo>&lt;</m:mo></m:math></entry>
+<entry valign="middle" align="center"><m:math><m:mo>≤</m:mo></m:math></entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="middle" align="left">is greater than</entry>
+<entry valign="middle" align="left">is greater than or equal to</entry>
+<entry valign="middle" align="left">is less than</entry>
+<entry valign="middle" align="left">is less than or equal to</entry>
+</row>
+<row valign="top">
+<entry valign="middle" align="left">is more than</entry>
+<entry valign="middle" align="left">is at least</entry>
+<entry valign="middle" align="left">is smaller than</entry>
+<entry valign="middle" align="left">is at most</entry>
+</row>
+<row valign="top">
+<entry valign="middle" align="left">is larger than</entry>
+<entry valign="middle" align="left">is no less than</entry>
+<entry valign="middle" align="left">has fewer than</entry>
+<entry valign="middle" align="left">is no more than</entry>
+</row>
+<row valign="top">
+<entry valign="middle" align="left">exceeds</entry>
+<entry valign="middle" align="left">is the minimum</entry>
+<entry valign="middle" align="left">is lower than</entry>
+<entry valign="middle" align="left">is the maximum</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+
+<example id="fs-id1168345738036">
+<exercise id="fs-id1168345720314"><problem id="fs-id1168345720316">
+<para id="fs-id1168345251022">Rewrite as an inequality. Then write the solution in interval notation and graph on the number line.</para><para id="fs-id1169751872347"><emphasis effect="italics">c</emphasis> is no more than eight.</para></problem>
+<solution id="fs-id1168345416357">
+<title>Solution</title>
+<table id="eip-id1168463007039" class="unnumbered unstyled" summary="This figure has two columns, with written instructions on the left and math on the right. At the top of the figure on the right is the math phrase “Translate.” To the right is the inequality c is less than or equal to 8. Another line down to the left, the instructions say: “Write the solution in interval notation.” To the right of this instruction is the inequality in interval notation: parenthesis, negative infinity comma 8. One more line down on the left, the instructions say: “Graph on the number line.” To the right of this sentence a number line ranging from 6 to 10 with tick marks for each integer. The inequality c is less than or equal to 8 is graphed on the number line, with an open bracket at c equals 8, and a dark line extending from the parenthesis to the left."><label/>
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+  <row>
+    <entry>Translate.</entry>
+    <entry><media id="eip-id1168463007090" alt="."><image mime-type="image/png" src="../../media/CNX_ElemAlg_Figure_02_07_055c_img.jpg"/></media></entry>
+  </row>
+  <row>
+    <entry>Write in interval notation.</entry>
+    <entry><media id="eip-id1168463007108" alt="."><image mime-type="image/png" src="../../media/CNX_ElemAlg_Figure_02_07_055d_img.jpg"/></media></entry>
+  </row>
+  <row>
+    <entry>Graph on the number line.</entry>
+    <entry><media id="eip-id1168463007125" alt="."><image mime-type="image/png" src="../../media/CNX_ElemAlg_Figure_02_07_055e_img.jpg"/></media></entry>
+  </row>
+ </tbody>
+
+
+</tgroup>
+</table></solution>
+</exercise>
+</example>
+
+<note id="fs-id1168341864973" class="try">
+<exercise id="fs-id1168345559469">
+<problem id="fs-id1168345424285">
+<para id="fs-id1168345424288">Translate and solve. Then write the solution in interval notation and graph on the number line.</para>
+<para id="fs-id1168342156018">Twenty times <emphasis effect="italics">y</emphasis> is at most 100</para>
+</problem>
+<solution id="fs-id1168345425365">
+<para id="fs-id1166499941367"><media id="fs-id1168345425368" alt="This figure shows the inequality 20y is less than or equal to 100, and then its solution: y is less than or equal to 5. Below this inequality is a number line ranging from 4 to 8 with tick marks for each integer. The inequality y is less than or equal to 5 is graphed on the number line, with an open bracket at y equals 5, and a dark line extending to the left of the bracket. The inequality is also written in interval notation as parenthesis, negative infinity comma 5, bracket.">
+<image mime-type="image/jpeg" src="../../media/CNX_ElemAlg_Figure_02_07_056_img.jpg"/>
+</media></para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id1168345423910" class="try">
+<exercise id="fs-id1168345270102">
+<problem id="fs-id1168345270104">
+<para id="fs-id1168345725057">Translate and solve. Then write the solution in interval notation and graph on the number line.</para>
+<para id="fs-id1168342181291">Nine times <emphasis effect="italics">z</emphasis> is no less than 135</para>
+</problem>
+<solution id="fs-id1168345449163">
+<para id="fs-id1166499862495"><media id="fs-id1168345449165" alt="This figure shows the inequality 9z is greater than or equal to 135, and then its solution: z is greater than or equal to 15. Below this inequality is a number line ranging from 14 to 18 with tick marks for each integer. The inequality z is greater than or equal to 15 is graphed on the number line, with an open bracket at z equals 15, and a dark line extending to the right of the bracket. The inequality is also written in interval notation as bracket, 15 comma infinity, parenthesis.">
+<image mime-type="image/jpeg" src="../../media/CNX_ElemAlg_Figure_02_07_057_img.jpg"/>
+</media></para>
+</solution>
+</exercise>
+</note>
+</section>
+<section id="fs-id1168345256702" class="section-exercises">
+<section id="fs-id1168345415015" class="practice-perfect">
+<title>Practice Makes Perfect</title>
+<para id="fs-id1168345431436"><emphasis effect="bold">Graph Inequalities on the Number Line</emphasis></para>
+<para id="fs-id1169749983130">In the following exercises, graph each inequality on the number line.</para>
+<exercise id="fs-id1168345527817">
+<problem id="fs-id1168345229331">
+<para id="fs-id1168345229333"><newline/><span class="token">ⓐ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>≤</m:mo><m:mn>2</m:mn></m:mrow></m:math><newline/><span class="token">ⓑ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>&gt;</m:mo><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow></m:math><newline/><span class="token">ⓒ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>&lt;</m:mo><m:mn>0</m:mn></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1168342181578">
+<problem id="fs-id1168342181580">
+<para id="fs-id1168342181582"><newline/><span class="token">ⓐ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>&gt;</m:mo><m:mn>1</m:mn></m:mrow></m:math><newline/><span class="token">ⓑ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>&lt;</m:mo><m:mo>−</m:mo><m:mn>2</m:mn></m:mrow></m:math><newline/><span class="token">ⓒ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>≥</m:mo><m:mn>−3</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1168345517868">
+<list id="fs-id1169748528693" list-type="enumerated" number-style="arabic" class="circled">
+<item><span class="token">ⓐ</span><newline/><media id="fs-id1168345408756" alt="This figure is a number line ranging from negative 5 to 5 with tick marks for each integer. The inequality x is greater than 1 is graphed on the number line, with an open parenthesis at x equals 1, and a dark line extending to the right of the parenthesis.">
+<image mime-type="image/jpeg" src="../../media/CNX_ElemAlg_Figure_02_07_204_img.jpg"/>
+</media></item>
+<item><span class="token">ⓑ</span><newline/><media id="fs-id1168341854168" alt="This figure is a number line ranging from negative 5 to 5 with tick marks for each integer. The inequality x is less than negative 2 is graphed on the number line, with an open parenthesis at x equals negative 2, and a dark line extending to the left of the parenthesis.">
+<image mime-type="image/jpeg" src="../../media/CNX_ElemAlg_Figure_02_07_205_img.jpg"/>
+</media></item>
+<item><span class="token">ⓒ</span><newline/><media id="fs-id1168345255064" alt="This figure is a number line ranging from negative 5 to 5 with tick marks for each integer. The inequality x is greater than or equal to negative 3 is graphed on the number line, with an open bracket at x equals negative 3, and a dark line extending to the right of the bracket.">
+<image mime-type="image/jpeg" src="../../media/CNX_ElemAlg_Figure_02_07_206_img.jpg"/>
+</media></item>
+</list>
+</solution>
+</exercise>
+<exercise id="fs-id1168345237089">
+<problem id="fs-id1168345237091">
+<para id="fs-id1168345559837"><newline/><span class="token">ⓐ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>≥</m:mo><m:mn>−3</m:mn></m:mrow></m:math><newline/><span class="token">ⓑ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>&lt;</m:mo><m:mn>4</m:mn></m:mrow></m:math><newline/><span class="token">ⓒ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>≤</m:mo><m:mo>−</m:mo><m:mn>2</m:mn></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1168345646724">
+<problem id="fs-id1168345646726">
+<para id="fs-id1168345414910"><newline/><span class="token">ⓐ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>≤</m:mo><m:mn>0</m:mn></m:mrow></m:math><newline/><span class="token">ⓑ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>&gt;</m:mo><m:mo>−</m:mo><m:mn>4</m:mn></m:mrow></m:math><newline/><span class="token">ⓒ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>≥</m:mo><m:mn>−1</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1168345538914">
+<list id="fs-id1169751756251" list-type="enumerated" number-style="arabic" class="circled">
+<item><span class="token">ⓐ</span><newline/><media id="fs-id1168345415049" alt="This figure is a number line ranging from negative 5 to 5 with tick marks for each integer. The inequality x is less than or equal to 0 is graphed on the number line, with an open bracket at x equals 0, and a dark line extending to the left of the bracket.">
+<image mime-type="image/jpeg" src="../../media/CNX_ElemAlg_Figure_02_07_210_img.jpg"/>
+</media></item>
+<item><span class="token">ⓑ</span><newline/><media id="fs-id1168345650393" alt="This figure is a number line ranging from negative 5 to 5 with tick marks for each integer. The inequality x is greater than negative 4 is graphed on the number line, with an open parenthesis at x equals negative 4, and a dark line extending to the right of the parenthesis.">
+<image mime-type="image/jpeg" src="../../media/CNX_ElemAlg_Figure_02_07_211_img.jpg"/>
+</media></item>
+<item><span class="token">ⓒ</span><newline/><media id="fs-id1168345538820" alt="This figure is a number line ranging from negative 5 to 5 with tick marks for each integer. The inequality x is greater than or equal to negative 1 is graphed on the number line, with an open bracket at x equals negative 1, and a dark line extending to the right of the bracket.">
+<image mime-type="image/jpeg" src="../../media/CNX_ElemAlg_Figure_02_07_212_img.jpg"/>
+</media></item>
+</list>
+</solution>
+</exercise>
+<para id="fs-id1168345450007">In the following exercises, graph each inequality on the number line and write in interval notation.</para>
+<exercise id="fs-id1168345435573">
+<problem id="fs-id1168345454373">
+<para id="fs-id1168345454375"><newline/><span class="token">ⓐ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>&lt;</m:mo><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow></m:math><newline/><span class="token">ⓑ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>≥</m:mo><m:mn>−2.5</m:mn></m:mrow></m:math><newline/><span class="token">ⓒ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>≤</m:mo><m:mfrac><m:mn>5</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1168345636936">
+<problem id="fs-id1168345636938">
+<para id="fs-id1168345636940"><newline/><span class="token">ⓐ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>&gt;</m:mo><m:mn>2</m:mn></m:mrow></m:math><newline/><span class="token">ⓑ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>≤</m:mo><m:mo>−</m:mo><m:mn>1.5</m:mn></m:mrow></m:math><newline/><span class="token">ⓒ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>≥</m:mo><m:mfrac><m:mn>5</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1168341864953">
+<list id="fs-id1169745334480" list-type="enumerated" number-style="arabic" class="circled">
+<item><span class="token">ⓐ</span><newline/><media id="fs-id1168345627037" alt="This figure is a number line ranging from negative 5 to 5 with tick marks for each integer. The inequality x is greater than 2 is graphed on the number line, with an open parenthesis at x equals 2, and a dark line extending to the right of the parenthesis. Below the number line is the solution written in interval notation: parenthesis, 2 comma infinity, parenthesis.">
+<image mime-type="image/jpeg" src="../../media/CNX_ElemAlg_Figure_02_07_300_img.jpg"/>
+</media></item>
+<item><span class="token">ⓑ</span><newline/><media id="fs-id1168345457936" alt="This figure is a number line ranging from negative 5 to 5 with tick marks for each integer. The inequality x is less than or equal to negative 1.5 is graphed on the number line, with an open bracket at x equals negative 1.5, and a dark line extending to the left of the bracket. Below the number line is the solution written in interval notation: parenthesis, negative infinity comma negative 1.5, bracket.">
+<image mime-type="image/jpeg" src="../../media/CNX_ElemAlg_Figure_02_07_301_img.jpg"/>
+</media></item>
+<item><span class="token">ⓒ</span><newline/><media id="fs-id1168342170255" alt="This figure is a number line ranging from negative 5 to 5 with tick marks for each integer. The inequality x is greater than or equal to 5/3 is graphed on the number line, with an open bracket at x equals 5/3, and a dark line extending to the right of the bracket. Below the number line is the solution written in interval notation: bracket, 5/3 comma infinity, parenthesis.">
+<image mime-type="image/jpeg" src="../../media/CNX_ElemAlg_Figure_02_07_302_img.jpg"/>
+</media></item>
+</list>
+</solution>
+</exercise>
+<exercise id="fs-id1168345442027">
+<problem id="fs-id1168345442029">
+<para id="fs-id1168345742504"><newline/><span class="token">ⓐ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>&lt;</m:mo><m:mo>−</m:mo><m:mn>2</m:mn></m:mrow></m:math><newline/><span class="token">ⓑ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>≥</m:mo><m:mn>−3.5</m:mn></m:mrow></m:math><newline/><span class="token">ⓒ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>≤</m:mo><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1168341961677">
+<problem id="fs-id1168345262282">
+<para id="fs-id1168345262284"><newline/><span class="token">ⓐ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>&gt;</m:mo><m:mn>3</m:mn></m:mrow></m:math><newline/><span class="token">ⓑ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>≤</m:mo><m:mo>−</m:mo><m:mn>0.5</m:mn></m:mrow></m:math><newline/><span class="token">ⓒ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>≥</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1168345743249">
+<list id="fs-id1169749826526" list-type="enumerated" number-style="arabic" class="circled">
+<item><span class="token">ⓐ</span><newline/><media id="fs-id1168345650400" alt="This figure is a number line ranging from negative 5 to 5 with tick marks for each integer. The inequality x is greater than 3 is graphed on the number line, with an open parenthesis at x equals 3, and a dark line extending to the right of the parenthsis. Below the number line is the solution written in interval notation: parenthesis, 3 comma infinity, parenthesis.">
+<image mime-type="image/jpeg" src="../../media/CNX_ElemAlg_Figure_02_07_216_img.jpg"/>
+</media></item>
+<item><span class="token">ⓑ</span><newline/><media id="fs-id1168345431173" alt="This figure is a number line ranging from negative 5 to 5 with tick marks for each integer. The inequality x is less than or equal to negative 0.5 is graphed on the number line, with an open bracket at x equals negative 0.5, and a dark line extending to the left of the bracket. Below the number line is the solution written in interval notation: parenthesis, negative infinity comma negative 0.5, bracket.">
+<image mime-type="image/jpeg" src="../../media/CNX_ElemAlg_Figure_02_07_217_img.jpg"/>
+</media></item>
+<item><span class="token">ⓒ</span><newline/><media id="fs-id1168345443821" alt="This figure is a number line ranging from negative 5 to 5 with tick marks for each integer. The inequality x is greater than or equal to 1/3 is graphed on the number line, with an open bracket at x equals 1/3 (written in), and a dark line extending to the right of the bracket. Below the number line is the solution written in interval notation: bracket, 1/3 comma infinity, parenthesis.">
+<image mime-type="image/jpeg" src="../../media/CNX_ElemAlg_Figure_02_07_218_img.jpg"/>
+</media></item>
+</list>
+</solution>
+</exercise>
+<exercise id="fs-id1168345574674">
+<problem id="fs-id1168345574676">
+<para id="fs-id1168341864209"><newline/><span class="token">ⓐ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>≥</m:mo><m:mn>−4</m:mn></m:mrow></m:math><newline/><span class="token">ⓑ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>&lt;</m:mo><m:mn>2.5</m:mn></m:mrow></m:math><newline/><span class="token">ⓒ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>&gt;</m:mo><m:mo>−</m:mo><m:mfrac><m:mn>3</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1168345454367">
+<problem id="fs-id1168345454369">
+<para id="fs-id1168345286752"><newline/><span class="token">ⓐ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>≤</m:mo><m:mn>5</m:mn></m:mrow></m:math><newline/><span class="token">ⓑ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>≥</m:mo><m:mn>−1.5</m:mn></m:mrow></m:math><newline/><span class="token">ⓒ</span> <m:math><m:mrow><m:mi>x</m:mi><m:mo>&lt;</m:mo><m:mo>−</m:mo><m:mfrac><m:mn>7</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1168345508060">
+<list id="fs-id1169754230479" list-type="enumerated" number-style="arabic" class="circled">
+<item><span class="token">ⓐ</span><newline/><media id="fs-id1168342181524" alt="This figure is a number line with tick marks. The inequality x is less than or equal to 5 is graphed on the number line, with an open bracket at x equals 5, and a dark line extending to the left of the bracket. Below the number line is the solution written in interval notation: parenthesis, negative infinity comma 5, bracket.">
+<image mime-type="image/jpeg" src="../../media/CNX_ElemAlg_Figure_02_07_222_img.jpg"/>
+</media></item>
+<item><span class="token">ⓑ</span><newline/><media id="fs-id1168345695399" alt="This figure is a number line ranging from negative 5 to 5 with tick marks for each integer. The inequality x is greater than or equal to negative 1.5 is graphed on the number line, with an open bracket at x equals negative 1.5, and a dark line extending to the right of the bracket. Below the number line is the solution written in interval notation: bracket, negative 1.5 comma infinity, parenthesis.">
+<image mime-type="image/jpeg" src="../../media/CNX_ElemAlg_Figure_02_07_223_img.jpg"/>
+</media></item>
+<item><span class="token">ⓒ</span><newline/><media id="fs-id1168345538809" alt="This figure is a number line ranging from negative 5 to 5 with tick marks for each integer. The inequality x is less than negative 7/3 is graphed on the number line, with an open parenthesis at x equals negative 7/3 (written in), and a dark line extending to the left of the parenthsis. Below the number line is the solution written in interval notation: parenthesis, negative infinity comma negative 7/3, parenthesis.">
+<image mime-type="image/jpeg" src="../../media/CNX_ElemAlg_Figure_02_07_224_img.jpg"/>
+</media></item>
+</list>
+</solution>
+</exercise>
+<para id="fs-id1168345499598"><emphasis effect="bold">Translate to an Inequality and Solve</emphasis></para>
+<para id="fs-id1169749982930">In the following exercises, translate and solve .Then write the solution in interval notation and graph on the number line.</para>
+<exercise id="fs-id1168345287059">
+<problem id="fs-id1168345287061">
+<para id="fs-id1168345688044">Fourteen times <emphasis effect="italics">d</emphasis> is greater than 56.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168345668305">
+<problem id="fs-id1168345668307">
+<para id="fs-id1168345386161">Ninety times <emphasis effect="italics">c</emphasis> is less than 450.</para>
+</problem>
+<solution id="fs-id1168345455695">
+<para id="fs-id1168345455697">
+<media id="fs-id1168345550085" alt="At the top of this figure is the the inequality 90c is less than 450. Below this is the solution to the inequality: c is less than 5. Below the solution is the solution written in interval notation: parenthesis, negative infinity comma 5, parenthesis. Below the interval notation is a number line ranging from 3 to 7 with tick marks for each integer. The inequality c is less than 5 is graphed on the number line, with an open parenthesis at c equals 5, and a dark line extending to the left of the parenthesis.">
+<image mime-type="image/jpeg" src="../../media/CNX_ElemAlg_Figure_02_07_281_img.jpg"/>
+</media></para>
+</solution>
+</exercise>
+<exercise id="fs-id1168345578761">
+<problem id="fs-id1168345578763">
+<para id="fs-id1168345578765">Eight times <emphasis effect="italics">z</emphasis> is smaller than <m:math><m:mrow><m:mn>−40</m:mn></m:mrow></m:math>.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168345442023">
+<problem id="fs-id1168345442978">
+<para id="fs-id1168345442980">Ten times <emphasis effect="italics">y</emphasis> is at most <m:math><m:mrow><m:mn>−110</m:mn></m:mrow></m:math>.</para>
+</problem>
+<solution id="fs-id1168341847724">
+<para id="fs-id1168345540605"><media id="fs-id1168345540607" alt="At the top of this figure is the the inequality 10y is less than or equal to negative 110. Below this is the solution to the inequality: y is less than or equal to negative 11. Below the solution is the solution written in interval notation: parenthesis, negative infinity comma negative 11, bracket. Below the interval notation is a number line ranging from negative 13 to negative 9 with tick marks for each integer. The inequality y is less than or equal to negative 11 is graphed on the number line, with an open bracket at y equals negative 11, and a dark line extending to the left of the bracket.">
+<image mime-type="image/jpeg" src="../../media/CNX_ElemAlg_Figure_02_07_283_img.png"/>
+</media></para></solution>
+</exercise>
+</section>
+<section id="fs-id1168345431362" class="everyday">
+<title>Everyday Math</title>
+<exercise id="fs-id1168345431368">
+<problem id="fs-id1168345450068">
+<para id="fs-id1168345450070"><emphasis effect="bold">Safety</emphasis> A child’s height, <emphasis effect="italics">h</emphasis>, must be at least 57 inches for the child to safely ride in the front seat of a car. Write this as an inequality.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168342114079">
+<problem id="fs-id1168342114081">
+<para id="fs-id1168342114083"><emphasis effect="bold">Fighter pilots</emphasis> The maximum height, <emphasis effect="italics">h</emphasis>, of a fighter pilot is 77 inches. Write this as an inequality.</para>
+</problem>
+<solution id="fs-id1168345622704">
+<para id="fs-id1168345560427"><m:math><m:mrow><m:mi>h</m:mi><m:mo>≤</m:mo><m:mn>77</m:mn></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1168345434470">
+<problem id="fs-id1168345274202">
+<para id="fs-id1168345274204"><emphasis effect="bold">Elevators</emphasis> The total weight, <emphasis effect="italics">w</emphasis>, of an elevator’s passengers can be no more than 1,200 pounds. Write this as an inequality.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168345419258">
+<problem id="fs-id1168345419260">
+<para id="fs-id1168345419262"><emphasis effect="bold">Shopping</emphasis> The number of items, <emphasis effect="italics">n</emphasis>, a shopper can have in the express check-out lane is at most 8. Write this as an inequality.</para>
+</problem>
+<solution id="fs-id1168345270017">
+<para id="fs-id1168345270019"><m:math><m:mrow><m:mi>n</m:mi><m:mo>≤</m:mo><m:mn>8</m:mn></m:mrow></m:math></para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1168345426933" class="writing">
+<title>Writing Exercises</title>
+<exercise id="fs-id1168345414286">
+<problem id="fs-id1168345414288">
+<para id="fs-id1168345693530">Give an example from your life using the phrase ‘at least’.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168345516539">
+<problem id="fs-id1168345539656">
+<para id="fs-id1168345539658">Give an example from your life using the phrase ‘at most’.</para>
+</problem>
+<solution id="fs-id1168345636477">
+<para id="fs-id1168345636479">Answers will vary.</para>
+</solution>
+</exercise>
+</section>
+</section>
+</content>
+</document>

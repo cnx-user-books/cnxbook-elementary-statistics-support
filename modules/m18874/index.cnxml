@@ -1,0 +1,1014 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+<title>Signed Numbers: Positive and Negative, Opposites</title>
+<metadata>
+  <md:content-id>m18874</md:content-id><md:title>Signed Numbers: Positive and Negative, Opposites</md:title>
+  <md:abstract>This module is from Elementary Algebra by Denny Burzynski and Wade Ellis, Jr.
+The basic operations with real numbers are presented in this chapter. The concept of absolute value is discussed both geometrically and symbolically. The geometric presentation offers a visual understanding of the meaning of |x|. The symbolic presentation includes a literal explanation of how to use the definition. Negative exponents are developed, using reciprocals and the rules of exponents the student has already learned. Scientific notation is also included, using unique and real-life examples.
+Objectives of this module: be familiar with positive and negative numbers and with the concept of opposites.</md:abstract>
+  <md:uuid>7583c82c-e276-4d6c-bd35-9b9ff7ffcb34</md:uuid>
+</metadata>
+
+<content>  <section id="eip-687">
+<title>Overview</title>
+<list id="eip-957">
+<item>Positive and Negative Numbers</item>	<item>Opposites</item>
+</list>
+</section>
+<section id="eip-134">
+<title>Positive and Negative Numbers</title>
+<para id="eip-415">When we studied the number line in Section <link document="m21895"/> we noted that</para>
+<para id="eip-360" class="highlight">Each point on the number line corresponds to a real number, and each real number is located at a unique point on the number line.<newline/>
+<newline/>
+<media id="C02_S2-1_P044_001" display="block" alt="A number line with arrows on each end, labeled from negative six to six in increments of one. There are two closed circles at negative two and four, respectively.">		<image mime-type="image/png" src="../../media/C02_S2-1_P044_001.png" print-width="3.5in"/>
+</media>
+</para>
+<para id="eip-744">
+<title>Positive and Negative Numbers</title>Each real number has a <emphasis>sign</emphasis> inherently associated with it. A real number is said to be a <term>positive number</term> if it is located to the right of 0 on the number line. It is a <term>negative</term> number if it is located to the left of 0 on the number line.</para>
+<para id="eip-6" class="highlight">
+<title>THE NOTATION OF SIGNED NUMBERS</title>A number is denoted as <term>positive</term> if it is directly preceded by a <m:math>		<m:semantics>			<m:mrow>				<m:mo>"</m:mo>
+<m:mo>+</m:mo>
+<m:mo>"</m:mo>			</m:mrow>			<m:annotation encoding="MathType-MTEF">			</m:annotation>		</m:semantics>	</m:math> sign <emphasis>or</emphasis> no sign at all.<newline/>A number is denoted as <term>negative</term> if it is directly preceded by a <m:math>		<m:semantics>			<m:mrow>				<m:mo>"</m:mo>
+<m:mo>−</m:mo>
+<m:mo>"</m:mo>			</m:mrow>			<m:annotation encoding="MathType-MTEF">			</m:annotation>		</m:semantics>	</m:math> sign.</para>
+<para id="eip-429">The <m:math> <m:semantics>  <m:mrow>   <m:mo>"</m:mo>
+<m:mo>+</m:mo>
+<m:mo>"</m:mo>  </m:mrow> <m:annotation encoding="MathType-MTEF"> </m:annotation> </m:semantics>
+</m:math> and <m:math> <m:semantics>  <m:mrow>   <m:mo>"</m:mo>
+<m:mo>-</m:mo>
+<m:mo>"</m:mo>  </m:mrow> <m:annotation encoding="MathType-MTEF"> </m:annotation> </m:semantics>
+</m:math> signs now have two meanings:</para>
+<para id="eip-357">
+<m:math> <m:semantics>  <m:mo>+</m:mo> <m:annotation encoding="MathType-MTEF"> </m:annotation> </m:semantics>
+</m:math> can denote the operation of addition or a positive number.<newline/>
+<m:math> <m:semantics>  <m:mo>−</m:mo> <m:annotation encoding="MathType-MTEF"> </m:annotation> </m:semantics>
+</m:math> can denote the operation of subtraction or a negative number.</para>
+<para id="eip-799">
+<title>Read the <m:math>
+<m:semantics>
+<m:mo>"-"</m:mo>
+<m:annotation encoding="MathType-MTEF"/>
+</m:semantics>
+</m:math>Sign as "Negative"</title>To avoid any confusion between "sign" and "operation," it is preferable to read the sign of a number as "positive" or "negative."</para>
+</section>
+<section id="eip-69">
+<title>Sample Set A</title>
+<example id="eip-912">
+<para id="eip-99">
+<m:math> <m:semantics>  <m:mrow>   <m:mo>−</m:mo>
+<m:mn>8</m:mn>  </m:mrow> <m:annotation encoding="MathType-MTEF"> </m:annotation> </m:semantics>
+</m:math> should be read as "negative eight" rather than "minus eight."</para>
+</example>
+<example id="eip-222">
+<para id="eip-83">
+<m:math> <m:semantics>  <m:mrow>   <m:mn>4</m:mn>
+<m:mo>+</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mo>−</m:mo>
+<m:mn>2</m:mn>
+<m:mo stretchy="false">)</m:mo>  </m:mrow> <m:annotation encoding="MathType-MTEF"> </m:annotation> </m:semantics>
+</m:math> should be read as "four plus negative two" rather than "four plus minus two."</para>
+</example>
+<example id="eip-130">
+<para id="eip-898">
+<m:math> <m:semantics>  <m:mrow>   <m:mo>−</m:mo>
+<m:mn>6</m:mn>
+<m:mo>+</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mo>−</m:mo>
+<m:mn>3</m:mn>
+<m:mo stretchy="false">)</m:mo>  </m:mrow> <m:annotation encoding="MathType-MTEF"> </m:annotation> </m:semantics>
+</m:math> should be read as "negative six plus negative three" rather than "minus six plusminus three."</para>
+</example>
+<example id="eip-824">
+<para id="eip-241">
+<m:math> <m:semantics>  <m:mrow>   <m:mo>−</m:mo>
+<m:mn>15</m:mn>
+<m:mo>−</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mo>−</m:mo>
+<m:mn>6</m:mn>
+<m:mo stretchy="false">)</m:mo>  </m:mrow> <m:annotation encoding="MathType-MTEF"> </m:annotation> </m:semantics>
+</m:math> should be read as "negative fifteen minus negative six" rather than "minus fifteenminus minus six."</para>
+</example>
+<example id="eip-974">
+<para id="eip-943">
+<m:math> <m:semantics>  <m:mrow>   <m:mo>−</m:mo>
+<m:mn>5</m:mn>
+<m:mo>+</m:mo>
+<m:mn>7</m:mn>  </m:mrow> <m:annotation encoding="MathType-MTEF"> </m:annotation> </m:semantics>
+</m:math> should be read as "negative five plus seven" rather than "minus five plus seven."</para>
+</example>
+<example id="eip-387">
+<para id="eip-568">
+<m:math> <m:semantics>  <m:mrow>   <m:mn>0</m:mn>
+<m:mo>−</m:mo>
+<m:mn>2</m:mn>  </m:mrow> <m:annotation encoding="MathType-MTEF"> </m:annotation> </m:semantics>
+</m:math> should be read as "zero minus two."</para>
+</example>
+</section>
+<section id="eip-703">
+<title>Practice Set A</title>
+<para id="eip-12">Write each expression in words.</para>
+<exercise id="eip-867">
+<problem id="eip-280">		<para id="eip-29">
+<m:math> <m:semantics>  <m:mrow>   <m:mn>4</m:mn>
+<m:mo>+</m:mo>
+<m:mn>10</m:mn>  </m:mrow> <m:annotation encoding="MathType-MTEF"> </m:annotation> </m:semantics>
+</m:math>  </para>	</problem>	<solution id="eip-458">		<para id="eip-306">four plus ten</para>	</solution>
+</exercise>
+<exercise id="eip-192">
+<problem id="eip-456">		<para id="eip-663">
+<m:math> <m:semantics>  <m:mrow>   <m:mn>7</m:mn>
+<m:mo>+</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mo>−</m:mo>
+<m:mn>4</m:mn>
+<m:mo stretchy="false">)</m:mo>  </m:mrow> <m:annotation encoding="MathType-MTEF"> </m:annotation> </m:semantics>
+</m:math>  </para>	</problem>	<solution id="eip-296">		<para id="eip-66">seven plus negative four</para>	</solution>
+</exercise>
+<exercise id="eip-758">
+<problem id="eip-983">		<para id="eip-57">
+<m:math> <m:semantics>  <m:mrow>   <m:mo>−</m:mo>
+<m:mn>9</m:mn>
+<m:mo>+</m:mo>
+<m:mn>2</m:mn>  </m:mrow> <m:annotation encoding="MathType-MTEF"> </m:annotation> </m:semantics>
+</m:math>  </para>	</problem>	<solution id="eip-721">		<para id="eip-62">negative nine plus two</para>	</solution>
+</exercise>
+<exercise id="eip-615">
+<problem id="eip-952">		<para id="eip-781">
+<m:math> <m:semantics>  <m:mrow>   <m:mo>−</m:mo>
+<m:mn>16</m:mn>
+<m:mo>−</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mo>+</m:mo>
+<m:mn>8</m:mn>
+<m:mo stretchy="false">)</m:mo>  </m:mrow> <m:annotation encoding="MathType-MTEF"> </m:annotation> </m:semantics>
+</m:math>  </para>	</problem>	<solution id="eip-607">		<para id="eip-660">negative sixteen minus positive eight</para>	</solution>
+</exercise>
+<exercise id="eip-201">
+<problem id="eip-645">		<para id="eip-667">
+<m:math> <m:semantics>  <m:mrow>   <m:mo>−</m:mo>
+<m:mn>1</m:mn>
+<m:mo>−</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mo>−</m:mo>
+<m:mn>9</m:mn>
+<m:mo stretchy="false">)</m:mo>  </m:mrow> <m:annotation encoding="MathType-MTEF"> </m:annotation> </m:semantics>
+</m:math>  </para>	</problem>	<solution id="eip-87">		<para id="eip-976">negative one minus negative nine</para>	</solution>
+</exercise>
+<exercise id="eip-431">
+<problem id="eip-765">		<para id="eip-800">
+<m:math> <m:semantics>  <m:mrow>   <m:mn>0</m:mn>
+<m:mo>+</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mo>−</m:mo>
+<m:mn>7</m:mn>
+<m:mo stretchy="false">)</m:mo>  </m:mrow> <m:annotation encoding="MathType-MTEF"> </m:annotation> </m:semantics>
+</m:math>  </para>	</problem>	<solution id="eip-536">		<para id="eip-496">zero plus negative seven</para>	</solution>
+</exercise>
+</section>
+<section id="eip-157">
+<title>Opposites</title>
+<para id="eip-779">
+<title>Opposites</title>On the number line, each real number has an image on the opposite side of 0. For this reason we say that each real number has an opposite. <term>Opposites</term> are the same distance from zero but have opposite signs.</para>
+<para id="eip-570">The opposite of a real number is denoted by placing a negative sign directly in front of the number. Thus, if <m:math>			<m:semantics>				<m:mi>a</m:mi>				<m:annotation encoding="MathType-MTEF">				</m:annotation>			</m:semantics>		</m:math> is any real number, then <m:math>			<m:semantics>				<m:mrow>					<m:mo>−</m:mo>
+<m:mi>a</m:mi>				</m:mrow>				<m:annotation encoding="MathType-MTEF">				</m:annotation>			</m:semantics>		</m:math> is its opposite. <emphasis>Notice</emphasis> that the letter <m:math>			<m:semantics>				<m:mi>a</m:mi>				<m:annotation encoding="MathType-MTEF">				</m:annotation>			</m:semantics>		</m:math> is a variable. Thus, <m:math>			<m:semantics>				<m:mrow>					<m:mo>"</m:mo>
+<m:mi>a</m:mi>
+<m:mo>"</m:mo>				</m:mrow>				<m:annotation encoding="MathType-MTEF">				</m:annotation>			</m:semantics>		</m:math> need not be positive, and <m:math>			<m:semantics>				<m:mrow>					<m:mo>"</m:mo>
+<m:mo>−</m:mo>
+<m:mi>a</m:mi>
+<m:mo>"</m:mo>				</m:mrow>				<m:annotation encoding="MathType-MTEF">				</m:annotation>			</m:semantics>		</m:math> need not be negative.</para>
+<para id="eip-939">If <m:math>			<m:semantics>				<m:mi>a</m:mi>				<m:annotation encoding="MathType-MTEF">				</m:annotation>			</m:semantics>		</m:math> is a real number, <m:math>			<m:semantics>				<m:mrow>					<m:mo>−</m:mo>
+<m:mi>a</m:mi>				</m:mrow>				<m:annotation encoding="MathType-MTEF">				</m:annotation>			</m:semantics>		</m:math> is opposite <m:math>			<m:semantics>				<m:mi>a</m:mi>				<m:annotation encoding="MathType-MTEF">				</m:annotation>			</m:semantics>		</m:math> on the number line and <m:math>			<m:semantics>				<m:mi>a</m:mi>				<m:annotation encoding="MathType-MTEF">				</m:annotation>			</m:semantics>		</m:math> is opposite <m:math>			<m:semantics>				<m:mrow>					<m:mo>−</m:mo>
+<m:mi>a</m:mi>				</m:mrow>				<m:annotation encoding="MathType-MTEF">				</m:annotation>			</m:semantics>		</m:math> on the number line.</para>
+<para id="eip-293"><media id="C02_S2-1_P045_001" display="block" alt="Two number lines with arrows on each end. The first number line has three labels, zero at the center, negative a to the left of zero and a to the right of zero. Negative a and a are equidistant from zero. The second line has three labels, zero at the center, a to the left of zero and negative a to the right of zero. The points a and negative a are equidistant from zero.">		<image mime-type="image/png" src="../../media/C02_S2-1_P045_001.png" print-width="3.5in"/>
+</media>
+</para>
+<para id="eip-705">
+<m:math>			<m:semantics>				<m:mrow>					<m:mo>−</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mo>−</m:mo>
+<m:mi>a</m:mi>
+<m:mo stretchy="false">)</m:mo>				</m:mrow>				<m:annotation encoding="MathType-MTEF">				</m:annotation>			</m:semantics>		</m:math> is opposite <m:math>			<m:semantics>				<m:mrow>					<m:mo>−</m:mo>
+<m:mi>a</m:mi>				</m:mrow>				<m:annotation encoding="MathType-MTEF">				</m:annotation>			</m:semantics>		</m:math> on the number line. This implies that <m:math>			<m:semantics>				<m:mrow>					<m:mo>−</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mo>−</m:mo>
+<m:mi>a</m:mi>
+<m:mo stretchy="false">)</m:mo>
+<m:mo>=</m:mo>
+<m:mi>a</m:mi>				</m:mrow>				<m:annotation encoding="MathType-MTEF">				</m:annotation>			</m:semantics>		</m:math>.</para>
+<para id="eip-203">This property of opposites suggests the double-negative property for real numbers.</para>
+<para id="eip-245" class="highlight">
+<title>THE DOUBLE-NEGATIVE PROPERTY</title>If <m:math>			<m:semantics>				<m:mi>a</m:mi>				<m:annotation encoding="MathType-MTEF">				</m:annotation>			</m:semantics>		</m:math> is a real number, then<newline/>
+<m:math>			<m:semantics>				<m:mrow>					<m:mo>−</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mo>−</m:mo>
+<m:mi>a</m:mi>
+<m:mo stretchy="false">)</m:mo>
+<m:mo>=</m:mo>
+<m:mi>a</m:mi>				</m:mrow>				<m:annotation encoding="MathType-MTEF">				</m:annotation>			</m:semantics>		</m:math>	</para>
+</section>
+<section id="eip-56">
+<title>Sample Set B</title>
+<example id="eip-990">
+<para id="eip-962">If <m:math>		<m:semantics>			<m:mrow>				<m:mi>a</m:mi>
+<m:mo>=</m:mo>
+<m:mn>3</m:mn>			</m:mrow>			<m:annotation encoding="MathType-MTEF">			</m:annotation>		</m:semantics>	</m:math>, then <m:math>		<m:semantics>			<m:mrow>				<m:mo>−</m:mo>
+<m:mi>a</m:mi>
+<m:mo>=</m:mo>
+<m:mo>−</m:mo>
+<m:mn>3</m:mn>			</m:mrow>			<m:annotation encoding="MathType-MTEF">			</m:annotation>		</m:semantics>	</m:math> and <m:math>		<m:semantics>			<m:mrow>				<m:mo>−</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mo>−</m:mo>
+<m:mi>a</m:mi>
+<m:mo stretchy="false">)</m:mo>
+<m:mo>=</m:mo>
+<m:mo>−</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mo>−</m:mo>
+<m:mn>3</m:mn>
+<m:mo stretchy="false">)</m:mo>
+<m:mo>=</m:mo>
+<m:mn>3</m:mn>			</m:mrow>			<m:annotation encoding="MathType-MTEF">			</m:annotation>		</m:semantics>	</m:math>.<newline/>
+<newline/>
+<media id="C02_S2-1_P045_002" display="block" alt="A number line with arrows on each end, labeled from negative three to three in increments of three. Negative three is labeled as negative a, and three is labeled as a. There is an additional label for three as the opposite of negative a.">		<image mime-type="image/png" src="../../media/C02_S2-1_P045_002.png" print-width="3.5in"/>
+</media>
+</para>
+</example>
+<example id="eip-484">
+<para id="eip-411">If <m:math>		<m:semantics>			<m:mrow>				<m:mi>a</m:mi>
+<m:mo>=</m:mo>
+<m:mo>−</m:mo>
+<m:mn>4</m:mn>			</m:mrow>			<m:annotation encoding="MathType-MTEF">			</m:annotation>		</m:semantics>	</m:math>, then <m:math>		<m:semantics>			<m:mrow>				<m:mo>−</m:mo>
+<m:mi>a</m:mi>
+<m:mo>=</m:mo>
+<m:mo>−</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mo>−</m:mo>
+<m:mn>4</m:mn>
+<m:mo stretchy="false">)</m:mo>
+<m:mo>=</m:mo>
+<m:mn>4</m:mn>			</m:mrow>			<m:annotation encoding="MathType-MTEF">			</m:annotation>		</m:semantics>	</m:math> and <m:math>		<m:semantics>			<m:mrow>				<m:mo>−</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mo>−</m:mo>
+<m:mi>a</m:mi>
+<m:mo stretchy="false">)</m:mo>
+<m:mo>=</m:mo>
+<m:mi>a</m:mi>
+<m:mo>=</m:mo>
+<m:mo>−</m:mo>
+<m:mn>4</m:mn>			</m:mrow>			<m:annotation encoding="MathType-MTEF">			</m:annotation>		</m:semantics>	</m:math>.<newline/>
+<newline/>
+<media id="C02_S2-1_P045_003" display="block" alt="A number line with arrows on each end, labeled from negative four to four in increments of three. Negative four is labeled as a, and four is labeled as negative a. There is an additional label for negative four as the opposite of negative a.">		<image mime-type="image/png" src="../../media/C02_S2-1_P045_003.png" print-width="3.5in"/>
+</media>
+</para>
+</example>
+</section>
+<section id="eip-414">
+<title>Practice Set B</title>
+<para id="eip-384">Find the opposite of each real number.</para>
+<exercise id="eip-94">
+<problem id="eip-211">		<para id="eip-448">8  </para>	</problem>	<solution id="eip-333">		<para id="eip-839">
+<m:math> <m:semantics>  <m:mrow>   <m:mo>−</m:mo>
+<m:mn>8</m:mn>  </m:mrow> <m:annotation encoding="MathType-MTEF"> </m:annotation> </m:semantics>
+</m:math>
+</para>	</solution>
+</exercise>
+<exercise id="eip-332">
+<problem id="eip-247">		<para id="eip-176">17  </para>	</problem>	<solution id="eip-863">		<para id="eip-702">
+<m:math> <m:semantics>  <m:mrow>   <m:mo>−</m:mo>
+<m:mn>17</m:mn>  </m:mrow> <m:annotation encoding="MathType-MTEF"> </m:annotation> </m:semantics>
+</m:math>
+</para>	</solution>
+</exercise>
+<exercise id="eip-355">
+<problem id="eip-235">		<para id="eip-893">
+<m:math> <m:semantics>  <m:mrow>   <m:mo>−</m:mo>
+<m:mn>6</m:mn>  </m:mrow> <m:annotation encoding="MathType-MTEF"> </m:annotation> </m:semantics>
+</m:math>  </para>	</problem>	<solution id="eip-757">		<para id="eip-999">6</para>	</solution>
+</exercise>
+<exercise id="eip-565">
+<problem id="eip-71">		<para id="eip-678">
+<m:math> <m:semantics>  <m:mrow>   <m:mo>−</m:mo>
+<m:mn>15</m:mn>  </m:mrow> <m:annotation encoding="MathType-MTEF"> </m:annotation> </m:semantics>
+</m:math>  </para>	</problem>	<solution id="eip-701">		<para id="eip-468">15</para>	</solution>
+</exercise>
+<exercise id="eip-22">
+<problem id="eip-523">		<para id="eip-987">
+<m:math> <m:semantics>  <m:mrow>   <m:mo>−</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mo>−</m:mo>
+<m:mn>1</m:mn>
+<m:mo stretchy="false">)</m:mo>  </m:mrow> <m:annotation encoding="MathType-MTEF"> </m:annotation> </m:semantics>
+</m:math>  </para>	</problem>	<solution id="eip-855">		<para id="eip-63">
+<m:math> <m:semantics>  <m:mrow>   <m:mo>−</m:mo>
+<m:mn>1</m:mn>  </m:mrow> <m:annotation encoding="MathType-MTEF"> </m:annotation> </m:semantics>
+</m:math>, since <m:math> <m:semantics>  <m:mrow>   <m:mo>−</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mo>−</m:mo>
+<m:mn>1</m:mn>
+<m:mo stretchy="false">)</m:mo>
+<m:mo>=</m:mo>
+<m:mn>1</m:mn>  </m:mrow> <m:annotation encoding="MathType-MTEF"> </m:annotation> </m:semantics>
+</m:math>
+</para>	</solution>
+</exercise>
+<exercise id="eip-803">
+<problem id="eip-920">		<para id="eip-638">
+<m:math> <m:semantics>  <m:mrow>   <m:mo>−</m:mo>
+<m:mo stretchy="false">[</m:mo>
+<m:mo>−</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mo>−</m:mo>
+<m:mn>7</m:mn>
+<m:mo stretchy="false">)</m:mo>
+<m:mo stretchy="false">]</m:mo>  </m:mrow> <m:annotation encoding="MathType-MTEF"> </m:annotation> </m:semantics>
+</m:math>  </para>	</problem>	<solution id="eip-878">		<para id="eip-155">7</para>	</solution>
+</exercise>
+<exercise id="eip-742">
+<problem id="eip-223">		<para id="eip-249">Suppose that <m:math>
+		<m:semantics>
+			<m:mi>a</m:mi>
+			<m:annotation encoding="MathType-MTEF">
+			</m:annotation>
+		</m:semantics>
+	</m:math> is a positive number. What type of number is <m:math>
+		<m:semantics>
+			<m:mrow>
+				<m:mo>−</m:mo>
+				<m:mi>a</m:mi>
+			</m:mrow>
+			<m:annotation encoding="MathType-MTEF">
+			</m:annotation>
+		</m:semantics>
+	</m:math> ?  </para>	</problem>	<solution id="eip-111">		<para id="eip-447">If <m:math> <m:semantics>  <m:mi>a</m:mi> <m:annotation encoding="MathType-MTEF"> </m:annotation> </m:semantics>
+</m:math> is positive, <m:math> <m:semantics>  <m:mrow>   <m:mo>−</m:mo>
+<m:mi>a</m:mi>  </m:mrow> <m:annotation encoding="MathType-MTEF"> </m:annotation> </m:semantics>
+</m:math> is negative.  </para>	</solution>
+</exercise>
+<exercise id="eip-217">
+<problem id="eip-54">		<para id="eip-886">Suppose that <m:math>
+		<m:semantics>
+			<m:mi>a</m:mi>
+			<m:annotation encoding="MathType-MTEF">
+			</m:annotation>
+		</m:semantics>
+	</m:math> is a negative number. What type of number is <m:math>
+		<m:semantics>
+			<m:mrow>
+				<m:mo>−</m:mo>
+				<m:mi>a</m:mi>
+			</m:mrow>
+			<m:annotation encoding="MathType-MTEF">
+			</m:annotation>
+		</m:semantics>
+	</m:math> ?  </para>	</problem>	<solution id="eip-144">		<para id="eip-875">If <m:math>		<m:semantics>			<m:mi>a</m:mi>			<m:annotation encoding="MathType-MTEF">			</m:annotation>		</m:semantics>	</m:math> is negative, <m:math>		<m:semantics>			<m:mrow>				<m:mo>−</m:mo>
+<m:mi>a</m:mi>			</m:mrow>			<m:annotation encoding="MathType-MTEF">			</m:annotation>		</m:semantics>	</m:math> is positive.  </para>	</solution>
+</exercise>
+<exercise id="eip-506">
+<problem id="eip-772">		<para id="eip-918">Suppose we do not know the sign of the number <m:math>
+		<m:semantics>
+			<m:mi>m</m:mi>
+			<m:annotation encoding="MathType-MTEF">
+			</m:annotation>
+		</m:semantics>
+	</m:math>. Can we say that <m:math>
+		<m:semantics>
+			<m:mrow>
+				<m:mo>−</m:mo>
+				<m:mi>m</m:mi>
+			</m:mrow>
+			<m:annotation encoding="MathType-MTEF">
+			</m:annotation>
+		</m:semantics>
+	</m:math> is positive, negative, or that we do notknow ?   </para>	</problem>	<solution id="eip-623">		<para id="eip-462">We must say that we do not know.</para>	</solution>
+</exercise>
+</section>
+<section id="eip-509" class="homework">
+<title>Exercises</title>
+<exercise id="eip-309">
+<problem id="eip-818">			<para id="eip-969">A number is denoted as positive if it is directly preceded by ____________________ .  </para>		</problem>
+<solution id="zip-id3593946">
+<para id="zip-id3593948">a plus sign or no sign at all</para>
+</solution>	</exercise>
+<exercise id="eip-227">
+<problem id="eip-278">			<para id="eip-190">A number is denoted as negative if it is directly preceded by ____________________ .  </para>		</problem>	</exercise>
+<para id="eip-59">For the following problems, how should the real numbers be read ? (Write in words.)</para>
+<exercise id="eip-602">
+<problem id="eip-712">			<para id="eip-679">				<m:math>					<m:semantics>						<m:mrow>							<m:mo>−</m:mo>
+<m:mn>5</m:mn>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math>			</para>		</problem>
+<solution id="zip-id3644057">
+<para id="zip-id3644060">a negative five</para>
+</solution>	</exercise>
+<exercise id="eip-476">
+<problem id="eip-304">			<para id="eip-405">				<m:math>					<m:semantics>						<m:mrow>							<m:mo>−</m:mo>
+<m:mn>3</m:mn>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math>			</para>		</problem>	</exercise>
+<exercise id="eip-263">
+<problem id="eip-722">			<para id="eip-919">12  </para>		</problem>
+<solution id="zip-id4440791">
+<para id="zip-id4991840">twelve</para>
+</solution>	</exercise>
+<exercise id="eip-389">
+<problem id="eip-640">			<para id="eip-23">10  </para>		</problem>	</exercise>
+<exercise id="eip-528">
+<problem id="eip-385">			<para id="eip-435">				<m:math>					<m:semantics>						<m:mrow>							<m:mo>−</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mo>−</m:mo>
+<m:mn>4</m:mn>
+<m:mo stretchy="false">)</m:mo>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math>			</para>		</problem>
+<solution id="zip-id4562648">
+<para id="zip-id4562650">negative negative four</para>
+</solution>	</exercise>
+<exercise id="eip-806">
+<problem id="eip-410">			<para id="eip-234">				<m:math>					<m:semantics>						<m:mrow>							<m:mo>−</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mo>−</m:mo>
+<m:mn>1</m:mn>
+<m:mo stretchy="false">)</m:mo>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math>			</para>		</problem>	</exercise>
+<para id="eip-19">For the following problems, write the expressions in words.</para>
+<exercise id="eip-150">
+<problem id="eip-471">			<para id="eip-946">				<m:math>					<m:semantics>						<m:mrow>							<m:mn>5</m:mn>
+<m:mo>+</m:mo>
+<m:mn>7</m:mn>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math>			</para>		</problem>
+<solution id="zip-id3473358">
+<para id="zip-id5018956">five plus seven</para>
+</solution>	</exercise>
+<exercise id="eip-963">
+<problem id="eip-125">			<para id="eip-621">				<m:math>					<m:semantics>						<m:mrow>							<m:mn>2</m:mn>
+<m:mo>+</m:mo>
+<m:mn>6</m:mn>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math>			</para>		</problem>	</exercise>
+<exercise id="eip-41">
+<problem id="eip-493">			<para id="eip-422">				<m:math>					<m:semantics>						<m:mrow>							<m:mn>11</m:mn>
+<m:mo>+</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mo>−</m:mo>
+<m:mn>2</m:mn>
+<m:mo stretchy="false">)</m:mo>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math>			</para>		</problem>
+<solution id="zip-id4479248">
+<para id="zip-id4479250">eleven plus negative two</para>
+</solution>	</exercise>
+<exercise id="eip-784">
+<problem id="eip-34">			<para id="eip-774">				<m:math>					<m:semantics>						<m:mrow>							<m:mn>1</m:mn>
+<m:mo>+</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mo>−</m:mo>
+<m:mn>5</m:mn>
+<m:mo stretchy="false">)</m:mo>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math>			</para>		</problem>	</exercise>
+<exercise id="eip-348">
+<problem id="eip-915">			<para id="eip-683">				<m:math>					<m:semantics>						<m:mrow>							<m:mn>6</m:mn>
+<m:mo>−</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mo>−</m:mo>
+<m:mn>8</m:mn>
+<m:mo stretchy="false">)</m:mo>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math>			</para>		</problem>
+<solution id="zip-id3719845">
+<para id="zip-id3449449">six minus negative eight</para>
+</solution>	</exercise>
+<exercise id="eip-274">
+<problem id="eip-675">			<para id="eip-632">				<m:math>					<m:semantics>						<m:mrow>							<m:mn>0</m:mn>
+<m:mo>−</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mo>−</m:mo>
+<m:mn>15</m:mn>
+<m:mo stretchy="false">)</m:mo>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math>			</para>		</problem>	</exercise>
+<para id="eip-666">Rewrite the following problems in a simpler form.</para>
+<exercise id="eip-699">
+<problem id="eip-400">			<para id="eip-885">				<m:math>					<m:semantics>						<m:mrow>							<m:mo>−</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mo>−</m:mo>
+<m:mn>8</m:mn>
+<m:mo stretchy="false">)</m:mo>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math>			</para>		</problem>
+<solution id="zip-id3581073">
+<para id="zip-id4967014">
+<m:math> <m:semantics>  <m:mrow>   <m:mo>−</m:mo>
+<m:mrow>
+<m:mo>(</m:mo>    <m:mrow>     <m:mo>−</m:mo>
+<m:mn>8</m:mn>    </m:mrow>   <m:mo>)</m:mo>
+</m:mrow>
+<m:mo>=</m:mo>
+<m:mn>8</m:mn>  </m:mrow> </m:semantics>
+</m:math>
+</para>
+</solution>	</exercise>
+<exercise id="eip-575">
+<problem id="eip-465">			<para id="eip-753">
+<m:math>					<m:semantics>						<m:mrow>							<m:mo>−</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mo>−</m:mo>
+<m:mn>5</m:mn>
+<m:mo stretchy="false">)</m:mo>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math>			</para>		</problem>	</exercise>
+<exercise id="eip-975">
+<problem id="eip-65">			<para id="eip-40">				<m:math>					<m:semantics>						<m:mrow>							<m:mo>−</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mo>−</m:mo>
+<m:mn>2</m:mn>
+<m:mo stretchy="false">)</m:mo>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math>			</para>		</problem>
+<solution id="zip-id4941635">
+<para id="zip-id4941638">2</para>
+</solution>	</exercise>
+<exercise id="eip-935">
+<problem id="eip-119">			<para id="eip-307">				<m:math>					<m:semantics>						<m:mrow>							<m:mo>−</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mo>−</m:mo>
+<m:mn>9</m:mn>
+<m:mo stretchy="false">)</m:mo>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math>			</para>		</problem>	</exercise>
+<exercise id="eip-577">
+<problem id="eip-221">			<para id="eip-761">				<m:math>					<m:semantics>						<m:mrow>							<m:mo>−</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mo>−</m:mo>
+<m:mn>1</m:mn>
+<m:mo stretchy="false">)</m:mo>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math>			</para>		</problem>
+<solution id="zip-id4435009">
+<para id="zip-id4435011">1</para>
+</solution>	</exercise>
+<exercise id="eip-543">
+<problem id="eip-499">			<para id="eip-464">				<m:math>					<m:semantics>						<m:mrow>							<m:mo>−</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mo>−</m:mo>
+<m:mn>4</m:mn>
+<m:mo stretchy="false">)</m:mo>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math>			</para>		</problem>	</exercise>
+<exercise id="eip-504">
+<problem id="eip-717">			<para id="eip-255">				<m:math>					<m:semantics>						<m:mrow>							<m:mo>−</m:mo>
+<m:mo stretchy="false">[</m:mo>
+<m:mo>−</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mo>−</m:mo>
+<m:mn>3</m:mn>
+<m:mo stretchy="false">)</m:mo>
+<m:mo stretchy="false">]</m:mo>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math>			</para>		</problem>
+<solution id="zip-id9250582">
+<para id="zip-id4441690">
+<m:math> <m:semantics>  <m:mrow>   <m:mo>−</m:mo>
+<m:mn>3</m:mn>  </m:mrow>   </m:semantics>
+</m:math>
+</para>
+</solution>	</exercise>
+<exercise id="eip-788">
+<problem id="eip-127">			<para id="eip-927">				<m:math>					<m:semantics>						<m:mrow>							<m:mo>−</m:mo>
+<m:mo stretchy="false">[</m:mo>
+<m:mo>−</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mo>−</m:mo>
+<m:mn>10</m:mn>
+<m:mo stretchy="false">)</m:mo>
+<m:mo stretchy="false">]</m:mo>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math>			</para>		</problem>	</exercise>
+<exercise id="eip-32">
+<problem id="eip-277">			<para id="eip-554">				<m:math>					<m:semantics>						<m:mrow>							<m:mo>−</m:mo>
+<m:mo stretchy="false">[</m:mo>
+<m:mo>−</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mo>−</m:mo>
+<m:mn>6</m:mn>
+<m:mo stretchy="false">)</m:mo>
+<m:mo stretchy="false">]</m:mo>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math>			</para>		</problem>
+<solution id="zip-id4526957">
+<para id="zip-id3397499">
+<m:math> <m:semantics>  <m:mrow>   <m:mo>−</m:mo>
+<m:mn>6</m:mn>  </m:mrow>  </m:semantics>
+</m:math>
+</para>
+</solution>	</exercise>
+<exercise id="eip-477">
+<problem id="eip-105">			<para id="eip-353">				<m:math>					<m:semantics>						<m:mrow>							<m:mo>−</m:mo>
+<m:mo stretchy="false">[</m:mo>
+<m:mo>−</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mo>−</m:mo>
+<m:mn>15</m:mn>
+<m:mo stretchy="false">)</m:mo>
+<m:mo stretchy="false">]</m:mo>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math>			</para>		</problem>	</exercise>
+<exercise id="eip-110">
+<problem id="eip-318">			<para id="eip-183">				<m:math>					<m:semantics>						<m:mrow>							<m:mo>−</m:mo>
+<m:mo>{</m:mo>
+<m:mo>−</m:mo>
+<m:mo stretchy="false">[</m:mo>
+<m:mo>−</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mo>−</m:mo>
+<m:mn>26</m:mn>
+<m:mo stretchy="false">)</m:mo>
+<m:mo stretchy="false">]</m:mo>
+<m:mo>}</m:mo>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math>			</para>		</problem>
+<solution id="zip-id3606927">
+<para id="zip-id4559841">26</para>
+</solution>	</exercise>
+<exercise id="eip-154">
+<problem id="eip-108">			<para id="eip-463">				<m:math>					<m:semantics>						<m:mrow>							<m:mo>−</m:mo>
+<m:mo>{</m:mo>
+<m:mo>−</m:mo>
+<m:mo stretchy="false">[</m:mo>
+<m:mo>−</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mo>−</m:mo>
+<m:mn>11</m:mn>
+<m:mo stretchy="false">)</m:mo>
+<m:mo stretchy="false">]</m:mo>
+<m:mo>}</m:mo>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math>			</para>		</problem>	</exercise>
+<exercise id="eip-773">
+<problem id="eip-187">			<para id="eip-889">				<m:math>					<m:semantics>						<m:mrow>							<m:mo>−</m:mo>
+<m:mo>{</m:mo>
+<m:mo>−</m:mo>
+<m:mo stretchy="false">[</m:mo>
+<m:mo>−</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mo>−</m:mo>
+<m:mn>31</m:mn>
+<m:mo stretchy="false">)</m:mo>
+<m:mo stretchy="false">]</m:mo>
+<m:mo>}</m:mo>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math>			</para>		</problem>
+<solution id="zip-id5089570">
+<para id="zip-id3795934">31</para>
+</solution>	</exercise>
+<exercise id="eip-256">
+<problem id="eip-664">			<para id="eip-366">				<m:math>					<m:semantics>						<m:mrow>							<m:mo>−</m:mo>
+<m:mo>{</m:mo>
+<m:mo>−</m:mo>
+<m:mo stretchy="false">[</m:mo>
+<m:mo>−</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mo>−</m:mo>
+<m:mn>14</m:mn>
+<m:mo stretchy="false">)</m:mo>
+<m:mo stretchy="false">]</m:mo>
+<m:mo>}</m:mo>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math>			</para>		</problem>	</exercise>
+<exercise id="eip-832">
+<problem id="eip-237">			<para id="eip-977">				<m:math>					<m:semantics>						<m:mrow>							<m:mo>−</m:mo>
+<m:mo stretchy="false">[</m:mo>
+<m:mo>−</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mn>12</m:mn>
+<m:mo stretchy="false">)</m:mo>
+<m:mo stretchy="false">]</m:mo>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math>			</para>		</problem>
+<solution id="zip-id3685642">
+<para id="zip-id3685644">12</para>
+</solution>	</exercise>
+<exercise id="eip-605">
+<problem id="eip-207">			<para id="eip-569">				<m:math>					<m:semantics>						<m:mrow>							<m:mo>−</m:mo>
+<m:mo stretchy="false">[</m:mo>
+<m:mo>−</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mn>2</m:mn>
+<m:mo stretchy="false">)</m:mo>
+<m:mo stretchy="false">]</m:mo>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math>			</para>		</problem>	</exercise>
+<exercise id="eip-339">
+<problem id="eip-778">			<para id="eip-853">				<m:math>					<m:semantics>						<m:mrow>							<m:mo>−</m:mo>
+<m:mo stretchy="false">[</m:mo>
+<m:mo>−</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mn>17</m:mn>
+<m:mo stretchy="false">)</m:mo>
+<m:mo stretchy="false">]</m:mo>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math>			</para>		</problem>
+<solution id="zip-id4388178">
+<para id="zip-id4388180">17</para>
+</solution>	</exercise>
+<exercise id="eip-64">
+<problem id="eip-573">			<para id="eip-371">				<m:math>					<m:semantics>						<m:mrow>							<m:mo>−</m:mo>
+<m:mo stretchy="false">[</m:mo>
+<m:mo>−</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mn>42</m:mn>
+<m:mo stretchy="false">)</m:mo>
+<m:mo stretchy="false">]</m:mo>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math>			</para>		</problem>	</exercise>
+<exercise id="eip-498">
+<problem id="eip-624">			<para id="eip-869">				<m:math>					<m:semantics>						<m:mrow>							<m:mn>5</m:mn>
+<m:mo>−</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mo>−</m:mo>
+<m:mn>2</m:mn>
+<m:mo stretchy="false">)</m:mo>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math>			</para>		</problem>
+<solution id="zip-id4400472">
+<para id="zip-id4400474"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>5</m:mn><m:mo>−</m:mo><m:mrow><m:mo>(</m:mo>
+    <m:mrow>
+     <m:mo>−</m:mo><m:mn>2</m:mn>
+    </m:mrow>
+   <m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>5</m:mn><m:mo>+</m:mo><m:mn>2</m:mn><m:mo>=</m:mo><m:mn>7</m:mn>
+  </m:mrow>
+   </m:semantics>
+</m:math>
+</para>
+</solution>	</exercise>
+<exercise id="eip-382">
+<problem id="eip-670">			<para id="eip-819">				<m:math>					<m:semantics>						<m:mrow>							<m:mn>6</m:mn>
+<m:mo>−</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mo>−</m:mo>
+<m:mn>14</m:mn>
+<m:mo stretchy="false">)</m:mo>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math>			</para>		</problem>	</exercise>
+<exercise id="eip-33">
+<problem id="eip-140">			<para id="eip-215">				<m:math>					<m:semantics>						<m:mrow>							<m:mn>10</m:mn>
+<m:mo>−</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mo>−</m:mo>
+<m:mn>6</m:mn>
+<m:mo stretchy="false">)</m:mo>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math>			</para>		</problem>
+<solution id="zip-id5046070">
+<para id="zip-id5046072">16</para>
+</solution>	</exercise>
+<exercise id="eip-1">
+<problem id="eip-647">			<para id="eip-459">				<m:math>					<m:semantics>						<m:mrow>							<m:mn>18</m:mn>
+<m:mo>−</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mo>−</m:mo>
+<m:mn>12</m:mn>
+<m:mo stretchy="false">)</m:mo>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math>			</para>		</problem>	</exercise>
+<exercise id="eip-539">
+<problem id="eip-445">			<para id="eip-228">				<m:math>					<m:semantics>						<m:mrow>							<m:mn>31</m:mn>
+<m:mo>−</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mo>−</m:mo>
+<m:mn>1</m:mn>
+<m:mo stretchy="false">)</m:mo>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math>			</para>		</problem>
+<solution id="zip-id3689303">
+<para id="zip-id3689305">32</para>
+</solution>	</exercise>
+<exercise id="eip-608">
+<problem id="eip-214">			<para id="eip-862">				<m:math>					<m:semantics>						<m:mrow>							<m:mn>54</m:mn>
+<m:mo>−</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mo>−</m:mo>
+<m:mn>18</m:mn>
+<m:mo stretchy="false">)</m:mo>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math>			</para>		</problem>	</exercise>
+<exercise id="eip-424">
+<problem id="eip-20">			<para id="eip-767">				<m:math>					<m:semantics>						<m:mrow>							<m:mn>6</m:mn>
+<m:mo>−</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mo>−</m:mo>
+<m:mn>3</m:mn>
+<m:mo stretchy="false">)</m:mo>
+<m:mo>−</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mo>−</m:mo>
+<m:mn>4</m:mn>
+<m:mo stretchy="false">)</m:mo>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math>			</para>		</problem>
+<solution id="zip-id4526035">
+<para id="zip-id4526037">13</para>
+</solution>	</exercise>
+<exercise id="eip-369">
+<problem id="eip-917">			<para id="eip-743">				<m:math>					<m:semantics>						<m:mrow>							<m:mn>2</m:mn>
+<m:mo>−</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mo>−</m:mo>
+<m:mn>1</m:mn>
+<m:mo stretchy="false">)</m:mo>
+<m:mo>−</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mo>−</m:mo>
+<m:mn>8</m:mn>
+<m:mo stretchy="false">)</m:mo>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math>			</para>		</problem>	</exercise>
+<exercise id="eip-354">
+<problem id="eip-665">			<para id="eip-913">				<m:math>					<m:semantics>						<m:mrow>							<m:mn>15</m:mn>
+<m:mo>−</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mo>−</m:mo>
+<m:mn>6</m:mn>
+<m:mo stretchy="false">)</m:mo>
+<m:mo>−</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mo>−</m:mo>
+<m:mn>5</m:mn>
+<m:mo stretchy="false">)</m:mo>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math>			</para>		</problem>
+<solution id="zip-id4919616">
+<para id="zip-id4919618">26</para>
+</solution>	</exercise>
+<exercise id="eip-166">
+<problem id="eip-373">			<para id="eip-887">				<m:math>					<m:semantics>						<m:mrow>							<m:mn>24</m:mn>
+<m:mo>−</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mo>−</m:mo>
+<m:mn>8</m:mn>
+<m:mo stretchy="false">)</m:mo>
+<m:mo>−</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mo>−</m:mo>
+<m:mn>13</m:mn>
+<m:mo stretchy="false">)</m:mo>						</m:mrow>						<m:annotation encoding="MathType-MTEF">						</m:annotation>					</m:semantics>				</m:math>			</para>		</problem>	</exercise>
+</section>
+<section id="eip-610"><title>Exercises for Review</title><exercise id="eip-854">
+		<problem id="eip-710">
+			<para id="eip-629">
+				<emphasis>(<link document="m21883"/>)</emphasis> There is only one real number for which <m:math>
+					<m:semantics>
+						<m:mrow>
+							<m:msup>
+								<m:mrow>
+									<m:mo stretchy="false">(</m:mo>
+									<m:mn>5</m:mn>
+									<m:mi>a</m:mi>
+									<m:mo stretchy="false">)</m:mo>
+								</m:mrow>
+								<m:mn>2</m:mn>
+							</m:msup>
+							<m:mo>=</m:mo>
+							<m:mn>5</m:mn>
+							<m:msup>
+								<m:mi>a</m:mi>
+								<m:mn>2</m:mn>
+							</m:msup>
+						</m:mrow>
+						<m:annotation encoding="MathType-MTEF">
+						</m:annotation>
+					</m:semantics>
+				</m:math>. What is the number?  </para>
+		</problem>
+		<solution id="zip-id4408211">
+			<para id="zip-id4408213">0</para>
+		</solution>
+	</exercise>
+	<exercise id="eip-324">
+		<problem id="eip-383">
+			<para id="eip-725">
+				<emphasis>(<link document="m21900"/>)</emphasis> Simplify <m:math>
+					<m:semantics>
+						<m:mrow>
+							<m:mo stretchy="false">(</m:mo>
+							<m:mn>3</m:mn>
+							<m:mi>x</m:mi>
+							<m:mi>y</m:mi>
+							<m:mo stretchy="false">)</m:mo>
+							<m:mo stretchy="false">(</m:mo>
+							<m:mn>2</m:mn>
+							<m:msup>
+								<m:mi>x</m:mi>
+								<m:mn>2</m:mn>
+							</m:msup>
+							<m:msup>
+								<m:mi>y</m:mi>
+								<m:mn>3</m:mn>
+							</m:msup>
+							<m:mo stretchy="false">)</m:mo>
+							<m:mo stretchy="false">(</m:mo>
+							<m:mn>4</m:mn>
+							<m:msup>
+								<m:mi>x</m:mi>
+								<m:mn>2</m:mn>
+							</m:msup>
+							<m:msup>
+								<m:mi>y</m:mi>
+								<m:mn>4</m:mn>
+							</m:msup>
+							<m:mo stretchy="false">)</m:mo>
+						</m:mrow>
+						<m:annotation encoding="MathType-MTEF">
+						</m:annotation>
+					</m:semantics>
+				</m:math>.  </para>
+		</problem>
+	</exercise>
+	<exercise id="eip-340">
+		<problem id="eip-993">
+			<para id="eip-985">
+				<emphasis>(<link document="m21900"/>)</emphasis> Simplify <m:math>
+					<m:semantics>
+						<m:mrow>
+							<m:msup>
+								<m:mi>x</m:mi>
+								<m:mrow>
+									<m:mi>n</m:mi>
+									<m:mo>+</m:mo>
+									<m:mn>3</m:mn>
+								</m:mrow>
+							</m:msup>
+							<m:mo>⋅</m:mo>
+							<m:msup>
+								<m:mi>x</m:mi>
+								<m:mn>5</m:mn>
+							</m:msup>
+						</m:mrow>
+						<m:annotation encoding="MathType-MTEF">
+						</m:annotation>
+					</m:semantics>
+				</m:math>.  </para>
+		</problem>
+		<solution id="zip-id4516321">
+			<para id="zip-id4516323">
+				<m:math>
+					<m:semantics>
+						<m:mrow>
+							<m:msup>
+								<m:mi>x</m:mi>
+								<m:mrow>
+									<m:mi>n</m:mi>
+									<m:mo>+</m:mo>
+									<m:mn>8</m:mn>
+								</m:mrow>
+							</m:msup>
+						</m:mrow>
+					</m:semantics>
+				</m:math>
+			</para>
+		</solution>
+	</exercise>
+	<exercise id="eip-181">
+		<problem id="eip-630">
+			<para id="eip-100">
+				<emphasis>(<link document="m21897"/>)</emphasis> Simplify <m:math>
+					<m:semantics>
+						<m:mrow>
+							<m:msup>
+								<m:mrow>
+									<m:mo stretchy="false">(</m:mo>
+									<m:msup>
+										<m:mi>a</m:mi>
+										<m:mn>3</m:mn>
+									</m:msup>
+									<m:msup>
+										<m:mi>b</m:mi>
+										<m:mn>2</m:mn>
+									</m:msup>
+									<m:msup>
+										<m:mi>c</m:mi>
+										<m:mn>4</m:mn>
+									</m:msup>
+									<m:mo stretchy="false">)</m:mo>
+								</m:mrow>
+								<m:mn>4</m:mn>
+							</m:msup>
+						</m:mrow>
+						<m:annotation encoding="MathType-MTEF">
+						</m:annotation>
+					</m:semantics>
+				</m:math>.  </para>
+		</problem>
+	</exercise>
+	<exercise id="eip-171">
+		<problem id="eip-604">
+			<para id="eip-232">
+				<emphasis>(<link document="m21897"/>)</emphasis> Simplify <m:math>
+					<m:semantics>
+						<m:mrow>
+							<m:msup>
+								<m:mrow>
+									<m:mrow>
+										<m:mo>(</m:mo>
+										<m:mrow>
+											<m:mfrac>
+												<m:mrow>
+													<m:mn>4</m:mn>
+													<m:msup>
+														<m:mi>a</m:mi>
+														<m:mn>2</m:mn>
+													</m:msup>
+													<m:mi>b</m:mi>
+												</m:mrow>
+												<m:mrow>
+													<m:mn>3</m:mn>
+													<m:mi>x</m:mi>
+													<m:msup>
+														<m:mi>y</m:mi>
+														<m:mn>3</m:mn>
+													</m:msup>
+												</m:mrow>
+											</m:mfrac>
+										</m:mrow>
+										<m:mo>)</m:mo>
+									</m:mrow>
+								</m:mrow>
+								<m:mn>2</m:mn>
+							</m:msup>
+						</m:mrow>
+						<m:annotation encoding="MathType-MTEF">
+						</m:annotation>
+					</m:semantics>
+				</m:math>.  </para>
+		</problem>
+		<solution id="zip-id4551368">
+			<para id="zip-id4551370">
+				<m:math>
+					<m:semantics>
+						<m:mrow>
+							<m:mfrac>
+								<m:mrow>
+									<m:mn>16</m:mn>
+									<m:msup>
+										<m:mi>a</m:mi>
+										<m:mn>4</m:mn>
+									</m:msup>
+									<m:msup>
+										<m:mi>b</m:mi>
+										<m:mn>2</m:mn>
+									</m:msup>
+								</m:mrow>
+								<m:mrow>
+									<m:mn>9</m:mn>
+									<m:msup>
+										<m:mi>x</m:mi>
+										<m:mn>2</m:mn>
+									</m:msup>
+									<m:msup>
+										<m:mi>y</m:mi>
+										<m:mn>6</m:mn>
+									</m:msup>
+								</m:mrow>
+							</m:mfrac>
+						</m:mrow>
+					</m:semantics>
+				</m:math>
+			</para>
+		</solution>
+	</exercise>
+</section>
+</content>
+</document>

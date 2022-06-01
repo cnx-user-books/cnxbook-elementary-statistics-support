@@ -1,0 +1,66 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Ratios and Proportions</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m71649</md:content-id>
+  <md:title>Ratios and Proportions</md:title>
+  <md:abstract>Ratios and Proportions</md:abstract>
+  <md:uuid>83cee36c-2b8b-4dc0-86e2-315e04a1d0cc</md:uuid>
+</metadata>
+
+<content>
+  <section id="eip-965"><title>Ratios and Fractions</title><para id="eip-96">A ratio describes the proportional relationship between quantities or numbers. We represent ratio of two quantities a and b as:
+
+
+</para><para id="eip-320">"a to b" or "a : b" or <m:math>
+ <m:mfrac>
+  <m:mi>a</m:mi>
+  <m:mi>b</m:mi>
+ </m:mfrac>
+</m:math></para><para id="eip-572">Although the ratio of a and b can be expressed as a fraction <m:math>
+ <m:mfrac>
+  <m:mi>a</m:mi>
+  <m:mi>b</m:mi>
+ </m:mfrac>
+</m:math>, the numerator and denominators here do not represent the "part to whole" relationship of that of a fraction.</para><para id="eip-563">For example, if we have 5 oranges and 15 apples in a basket, the ratio of apples to oranges is 5:15 which can be expressed as <m:math>
+ <m:mfrac>
+  <m:mn>5</m:mn>
+  <m:mn>15</m:mn>
+ </m:mfrac>
+</m:math>. This ratio can be reduced to <m:math>
+ <m:mfrac>
+  <m:mn>1</m:mn>
+  <m:mn>3</m:mn>
+ </m:mfrac>
+</m:math> and expressed as 1:3. However, the fraction of oranges in the basket is <m:math>
+ <m:mfrac>
+  <m:mn>5</m:mn>
+  <m:mn>20</m:mn>
+ </m:mfrac>
+</m:math> which simplifies to <m:math>
+ <m:mfrac>
+  <m:mn>1</m:mn>
+  <m:mn>4</m:mn>
+ </m:mfrac>
+</m:math>. The denominator of the fraction is 20 because there are a total of 20 fruit items (5 oranges and 15 apples) in the basket.</para><para id="eip-753">Ratios can describe more than two quantities. For example, if there are 5 oranges, 15 apples, and 6 bananas in a basket, the ratio of oranges to apples to bananas would be 5:15:6.</para></section><section id="eip-87"><title>Proportions</title><para id="eip-653">Proportion describes the relationship between part to whole. Proportions can be expressed as a fraction, a decimal, relative frequency, or a percentage. </para><para id="eip-154">For the case of 5 oranges and 15 apples in a basket, the proportion of oranges is given by <m:math>
+ <m:mfrac>
+  <m:mn>5</m:mn>
+  <m:mn>20</m:mn>
+ </m:mfrac>
+</m:math> which is equivalent to <m:math>
+ <m:mfrac>
+  <m:mn>1</m:mn>
+  <m:mn>4</m:mn>
+ </m:mfrac>
+</m:math>.</para><para id="eip-599">Since proportions can be represented by percents, it is often useful to asks this question: What percent is this quantity? In the above example, we could ask, "what percent of the fruits is oranges?" To obtain the answer, we first evaluate <m:math>
+ <m:mfrac>
+  <m:mn>5</m:mn>
+  <m:mn>20</m:mn>
+ </m:mfrac>
+</m:math> which equals 0.25. This gives the decimal representation of the percentage of the oranges and is also called the "relative frequency." To obtain our final answer, we multiply 0.25 by 100% giving us 25%.</para></section><section id="eip-326"><title>Proportions in Statistics</title><para id="eip-234"><title>POPULATION Proportion</title>The proportion is the number of individuals in a population sharing a certain trait, <m:math>
+ <m:mi>x</m:mi>
+</m:math>, divided by the total number in the population, <m:math>
+ <m:mi>N</m:mi>
+</m:math>.</para><para id="eip-409"><title>SAMPLE Proportion</title>A sample proportion is the proportion of individuals in a sample sharing a certain trait, divided by the total number in the sample.   </para></section><section id="eip-921"><title>Additional Resources</title><para id="eip-470"><link url="https://www.cdc.gov/ophss/csels/dsepd/ss1978/lesson3/section1.html" window="new">Rations and Proportions</link>: An Introduction to Applied Epidemiology and Biostatistics by <link url="https://www.cdc.gov/ophss/csels/dsepd/ss1978/" window="new">CDC</link></para><para id="eip-490"><link url="https://math.serpmedia.org/poster_problems/ratio-v.-fraction.html" window="new">What’s the Difference Between a Ratio and a Fraction, and Why Should I Care?</link>: <link url="https://serpinstitute.org/" window="new">SERP Institute</link></para></section><para id="delete_me"><!-- Insert module text here --></para></content>
+
+</document>

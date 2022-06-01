@@ -1,0 +1,331 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+
+<title>Basic Operations with Real Numbers: Summary of Key Concepts</title>
+<metadata>
+  <md:content-id>m21881</md:content-id><md:title>Basic Operations with Real Numbers: Summary of Key Concepts</md:title>
+  <md:abstract>This module is from Elementary Algebra by Denny Burzynski and Wade Ellis, Jr.
+The basic operations with real numbers are presented in this chapter. The concept of absolute value is discussed both geometrically and symbolically. The geometric presentation offers a visual understanding of the meaning of |x|. The symbolic presentation includes a literal explanation of how to use the definition. Negative exponents are developed, using reciprocals and the rules of exponents the student has already learned. Scientific notation is also included, using unique and real-life examples.
+This module contains a summary of the key concepts in the chapter "Basic Operations with Real Numbers".</md:abstract>
+  <md:uuid>dd6d1ba0-8e6c-4cd2-9e92-7c0d815f379f</md:uuid>
+</metadata>
+
+<content>
+  <section id="eip-475"><title>Summary of Key Concepts</title><para id="eip-654"><title>Positive and Negative Numbers <emphasis>(<link document="m18874"/>)</emphasis></title>A number is denoted as <emphasis>positive</emphasis> if it is directly preceded by a "<m:math>
+			<m:semantics>
+				<m:mo>+</m:mo>
+				<m:annotation encoding="MathType-MTEF">
+				</m:annotation>
+			</m:semantics>
+		</m:math>" sign or no sign at all. A number is denoted as negative if it is directly preceded by a "<m:math>
+			<m:semantics>
+				<m:mo>−</m:mo>
+				<m:annotation encoding="MathType-MTEF">
+				</m:annotation>
+			</m:semantics>
+		</m:math>" sign.</para><para id="eip-534"><title>Opposites <emphasis>(<link document="m18874"/>)</emphasis></title>Opposites are numbers that are the same distance from zero on the number line but have opposite signs.</para><para id="eip-918"><title>Double-Negative Property <emphasis>(<link document="m18874"/>) </emphasis></title><m:math>
+			<m:semantics>
+				<m:mrow>
+					<m:mo>−</m:mo><m:mo stretchy="false">(</m:mo><m:mo>−</m:mo><m:mi>a</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mi>a</m:mi>
+				</m:mrow>
+				<m:annotation encoding="MathType-MTEF">
+				</m:annotation>
+			</m:semantics>
+		</m:math>
+	</para><para id="eip-395"><title>Absolute Value (Geometric) <emphasis>(<link document="m21876"/>)</emphasis></title>The absolute value of a number <m:math>
+			<m:semantics>
+				<m:mi>a</m:mi>
+				<m:annotation encoding="MathType-MTEF">
+				</m:annotation>
+			</m:semantics>
+		</m:math>, denoted <m:math>
+			<m:semantics>
+				<m:mrow>
+					<m:mrow><m:mo>|</m:mo>
+						<m:mi>a</m:mi>
+						<m:mo>|</m:mo></m:mrow>
+				</m:mrow>
+				<m:annotation encoding="MathType-MTEF">
+				</m:annotation>
+			</m:semantics>
+		</m:math>, is the distance from <m:math>
+			<m:semantics>
+				<m:mi>a</m:mi>
+				<m:annotation encoding="MathType-MTEF">
+				</m:annotation>
+			</m:semantics>
+		</m:math> to 0 on the  number line.
+
+
+</para><para id="eip-355"><title>Absolute Value (Algebraic) (<link document="m21876"/>)</title><m:math>
+			<m:semantics>
+				<m:mrow>
+					<m:mrow><m:mo>|</m:mo>
+						<m:mi>a</m:mi>
+						<m:mo>|</m:mo></m:mrow><m:mo>=</m:mo><m:mrow><m:mo>{</m:mo>
+						<m:mrow>
+							<m:mtable>
+								<m:mtr>
+									<m:mtd>
+										<m:mi>a</m:mi>
+									</m:mtd>
+									<m:mtd>
+										<m:mrow>
+											<m:mtext>if</m:mtext><m:mtext> </m:mtext><m:mi>a</m:mi><m:mo>≥</m:mo><m:mn>0</m:mn>
+										</m:mrow>
+									</m:mtd>
+								</m:mtr>
+								<m:mtr>
+									<m:mtd>
+										<m:mrow>
+											<m:mo>−</m:mo><m:mi>a</m:mi>
+										</m:mrow>
+									</m:mtd>
+									<m:mtd>
+										<m:mrow>
+											<m:mtext>if</m:mtext><m:mtext> </m:mtext><m:mi>a</m:mi><m:mo>&lt;</m:mo><m:mn>0</m:mn>
+										</m:mrow>
+									</m:mtd>
+								</m:mtr>
+							</m:mtable>
+						</m:mrow>
+					</m:mrow>
+				</m:mrow>
+				<m:annotation encoding="MathType-MTEF">
+				</m:annotation>
+			</m:semantics>
+		</m:math>
+	</para><para id="eip-994"><title>Addition of Signed Numbers <emphasis>(<link document="m21991"/>)</emphasis></title>To add two numbers with<newline/><emphasis>like signs</emphasis>, add the absolute values of the numbers and associate the common sign with the sum.<newline/><emphasis>unlike signs</emphasis>, subtract the smaller absolute value from the larger absolute value and associate the sign of the larger absolute value with the difference.</para><para id="eip-108"><title>Addition with 0 <emphasis>(<link document="m21991"/>)</emphasis></title><m:math>
+			<m:semantics>
+				<m:mrow>
+					<m:mn>0</m:mn><m:mo>+</m:mo><m:mtext>any</m:mtext><m:mtext> </m:mtext><m:mtext>number</m:mtext><m:mo>=</m:mo><m:mtext>that</m:mtext><m:mtext> </m:mtext><m:mtext>particular</m:mtext><m:mtext> </m:mtext><m:mtext>number</m:mtext>
+				</m:mrow>
+				<m:annotation encoding="MathType-MTEF">
+				</m:annotation>
+			</m:semantics>
+		</m:math>, that is, <m:math>
+			<m:semantics>
+				<m:mrow>
+					<m:mn>0</m:mn><m:mo>+</m:mo><m:mi>a</m:mi><m:mo>=</m:mo><m:mi>a</m:mi>
+				</m:mrow>
+				<m:annotation encoding="MathType-MTEF">
+				</m:annotation>
+			</m:semantics>
+		</m:math> for any real number <m:math>
+			<m:semantics>
+				<m:mi>a</m:mi>
+				<m:annotation encoding="MathType-MTEF">
+				</m:annotation>
+			</m:semantics>
+		</m:math>.
+</para><para id="eip-190"><title>Additive Identity <emphasis>(<link document="m21991"/>)</emphasis></title>Since adding 0 to a real number leaves that number unchanged, 0 is called the additive identity.</para><para id="eip-519"><title>Definition of Subtraction <emphasis>(<link document="m21877"/>) </emphasis></title><m:math>
+			<m:semantics>
+				<m:mrow>
+					<m:mi>a</m:mi><m:mo>−</m:mo><m:mi>b</m:mi><m:mo>=</m:mo><m:mi>a</m:mi><m:mo>+</m:mo><m:mo stretchy="false">(</m:mo><m:mo>−</m:mo><m:mi>b</m:mi><m:mo stretchy="false">)</m:mo>
+				</m:mrow>
+				<m:annotation encoding="MathType-MTEF">
+				</m:annotation>
+			</m:semantics>
+		</m:math>
+	</para><para id="eip-657"><title>Subtraction of Signed Numbers <emphasis>(<link document="m21877"/>)</emphasis></title>To perform the subtraction <m:math>
+			<m:semantics>
+				<m:mrow>
+					<m:mi>a</m:mi><m:mo>−</m:mo><m:mi>b</m:mi>
+				</m:mrow>
+				<m:annotation encoding="MathType-MTEF">
+				</m:annotation>
+			</m:semantics>
+		</m:math>, add the opposite of <m:math>
+			<m:semantics>
+				<m:mi>b</m:mi>
+				<m:annotation encoding="MathType-MTEF">
+				</m:annotation>
+			</m:semantics>
+		</m:math> to <m:math>
+			<m:semantics>
+				<m:mi>a</m:mi>
+				<m:annotation encoding="MathType-MTEF">
+				</m:annotation>
+			</m:semantics>
+		</m:math>, that is, change the sign of <m:math>
+			<m:semantics>
+				<m:mi>b</m:mi>
+				<m:annotation encoding="MathType-MTEF">
+				</m:annotation>
+			</m:semantics>
+		</m:math> and add.
+
+
+
+</para><para id="eip-536"><title>Multiplication and Division of Signed Numbers <emphasis>(<link document="m21872"/>)</emphasis></title><m:math>
+			<m:semantics>
+				<m:mrow>
+					<m:mtable columnalign="left">
+						<m:mtr columnalign="left">
+							<m:mtd columnalign="left">
+								<m:mrow>
+									<m:mo stretchy="false">(</m:mo><m:mo>+</m:mo><m:mo stretchy="false">)</m:mo><m:mtext> </m:mtext><m:mo stretchy="false">(</m:mo><m:mo>+</m:mo><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mo>+</m:mo>
+								</m:mrow>
+							</m:mtd>
+							<m:mtd columnalign="left">
+								<m:mrow>
+									<m:mfrac>
+										<m:mrow>
+											<m:mo stretchy="false">(</m:mo><m:mo>+</m:mo><m:mo stretchy="false">)</m:mo>
+										</m:mrow>
+										<m:mrow>
+											<m:mo stretchy="false">(</m:mo><m:mo>+</m:mo><m:mo stretchy="false">)</m:mo>
+										</m:mrow>
+									</m:mfrac>
+									<m:mo>=</m:mo>
+									<m:mo>+</m:mo>
+								</m:mrow>
+							</m:mtd>
+							<m:mtd columnalign="left">
+								<m:mrow>
+									<m:mfrac>
+										<m:mrow>
+											<m:mo stretchy="false">(</m:mo><m:mo>+</m:mo><m:mo stretchy="false">)</m:mo>
+										</m:mrow>
+										<m:mrow>
+											<m:mo stretchy="false">(</m:mo><m:mo>−</m:mo><m:mo stretchy="false">)</m:mo>
+										</m:mrow>
+									</m:mfrac>
+									<m:mo>=</m:mo><m:mo>−</m:mo>
+								</m:mrow>
+							</m:mtd>
+						</m:mtr>
+						<m:mtr columnalign="left">
+							<m:mtd columnalign="left">
+								<m:mrow>
+									<m:mo stretchy="false">(</m:mo><m:mo>−</m:mo><m:mo stretchy="false">)</m:mo><m:mtext> </m:mtext><m:mo stretchy="false">(</m:mo><m:mo>−</m:mo><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mo>+</m:mo>
+								</m:mrow>
+							</m:mtd>
+							<m:mtd columnalign="left">
+								<m:mrow/>
+							</m:mtd>
+							<m:mtd columnalign="left">
+								<m:mrow/>
+							</m:mtd>
+						</m:mtr>
+						<m:mtr columnalign="left">
+							<m:mtd columnalign="left">
+								<m:mrow>
+									<m:mo stretchy="false">(</m:mo><m:mo>+</m:mo><m:mo stretchy="false">)</m:mo><m:mtext> </m:mtext><m:mo stretchy="false">(</m:mo><m:mo>−</m:mo><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mo>−</m:mo>
+								</m:mrow>
+							</m:mtd>
+							<m:mtd columnalign="left">
+								<m:mrow/>
+							</m:mtd>
+							<m:mtd columnalign="left">
+								<m:mrow/>
+							</m:mtd>
+						</m:mtr>
+						<m:mtr columnalign="left">
+							<m:mtd columnalign="left">
+								<m:mrow>
+									<m:mo stretchy="false">(</m:mo><m:mo>−</m:mo><m:mo stretchy="false">)</m:mo><m:mtext> </m:mtext><m:mo stretchy="false">(</m:mo><m:mo>+</m:mo><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mo>−</m:mo>
+								</m:mrow>
+							</m:mtd>
+							<m:mtd columnalign="left">
+								<m:mrow>
+									<m:mfrac>
+										<m:mrow>
+											<m:mo stretchy="false">(</m:mo><m:mo>−</m:mo><m:mo stretchy="false">)</m:mo>
+										</m:mrow>
+										<m:mrow>
+											<m:mo stretchy="false">(</m:mo><m:mo>−</m:mo><m:mo stretchy="false">)</m:mo>
+										</m:mrow>
+									</m:mfrac>
+									<m:mo>=</m:mo><m:mo>+</m:mo>
+								</m:mrow>
+							</m:mtd>
+							<m:mtd columnalign="left">
+								<m:mrow>
+									<m:mfrac>
+										<m:mrow>
+											<m:mo stretchy="false">(</m:mo><m:mo>−</m:mo><m:mo stretchy="false">)</m:mo>
+										</m:mrow>
+										<m:mrow>
+											<m:mo stretchy="false">(</m:mo><m:mo>+</m:mo><m:mo stretchy="false">)</m:mo>
+										</m:mrow>
+									</m:mfrac>
+									<m:mo>=</m:mo><m:mo>−</m:mo>
+								</m:mrow>
+							</m:mtd>
+						</m:mtr>
+					</m:mtable>
+				</m:mrow>
+				<m:annotation encoding="MathType-MTEF">
+				</m:annotation>
+			</m:semantics>
+		</m:math>
+	</para><para id="eip-862"><title>Reciprocals <emphasis>(<link document="m21882"/>)</emphasis></title>Two numbers are reciprocals of each other if their product is 1. The numbers 4 and <m:math>
+			<m:semantics>
+				<m:mrow>
+					<m:mfrac>
+						<m:mn>1</m:mn>
+						<m:mn>4</m:mn>
+					</m:mfrac>
+				</m:mrow>
+				<m:annotation encoding="MathType-MTEF">
+				</m:annotation>
+			</m:semantics>
+		</m:math> are reciprocals since <m:math>
+			<m:semantics>
+				<m:mrow>
+					<m:mo stretchy="false">(</m:mo><m:mn>4</m:mn><m:mo stretchy="false">)</m:mo><m:mtext> </m:mtext><m:mrow><m:mo>(</m:mo>
+						<m:mrow>
+							<m:mfrac>
+								<m:mn>1</m:mn>
+								<m:mn>4</m:mn>
+							</m:mfrac>
+						</m:mrow>
+						<m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>1</m:mn>
+				</m:mrow>
+				<m:annotation encoding="MathType-MTEF">
+				</m:annotation>
+			</m:semantics>
+		</m:math>.
+
+
+</para><para id="eip-538"><title>Negative Exponents <emphasis>(<link document="m21882"/>)</emphasis></title>If <m:math>
+			<m:semantics>
+				<m:mi>n</m:mi>
+				<m:annotation encoding="MathType-MTEF">
+				</m:annotation>
+			</m:semantics>
+		</m:math> is any natural number and <m:math>
+			<m:semantics>
+				<m:mi>x</m:mi>
+				<m:annotation encoding="MathType-MTEF">
+				</m:annotation>
+			</m:semantics>
+		</m:math> is any nonzero real number, then <m:math>
+			<m:semantics>
+				<m:mrow>
+					<m:msup>
+						<m:mi>x</m:mi>
+						<m:mrow>
+							<m:mo>−</m:mo><m:mi>n</m:mi>
+						</m:mrow>
+					</m:msup>
+					<m:mo>=</m:mo><m:mfrac>
+						<m:mn>1</m:mn>
+						<m:mrow>
+							<m:msup>
+								<m:mi>x</m:mi>
+								<m:mi>n</m:mi>
+							</m:msup>
+						</m:mrow>
+					</m:mfrac>
+				</m:mrow>
+				<m:annotation encoding="MathType-MTEF">
+				</m:annotation>
+			</m:semantics>
+		</m:math>.
+</para><para id="eip-401"><title>Writing a Number in Scientific Notation <emphasis>(<link document="m21879"/>) </emphasis></title>To write a number in scientific notation:</para><list id="eip-765" list-type="enumerated" number-style="arabic"><item>Move the decimal point so that there is one nonzero digit to its left.</item>
+		<item>Multiply the result by a power of 10 using an exponent whose absolute value is the number of places the decimal point was moved. Make the exponent positive if the decimal point was moved to the left and negative if the decimal point was moved to the right.</item>
+	</list><para id="eip-387"><title>Converting from Scientific Notation:<newline/>positive exponent <emphasis>(<link document="m21879"/>)</emphasis></title>To convert a number written in scientific notation to a number in standard form when there is a <emphasis>positive</emphasis> exponent as the power of 10, move the decimal point to the <emphasis>right</emphasis> the number of places prescribed by the exponent on the 10.</para><para id="eip-54"><title>Negative Exponent <emphasis>(<link document="m21879"/>)</emphasis></title>To convert a number written in scientific notation to a number in standard form when there is a <emphasis>negative</emphasis> exponent as the power of 10, move the decimal point to the <emphasis>left</emphasis> the number of places prescribed by the exponent on the 10.</para></section>
+</content>
+
+</document>

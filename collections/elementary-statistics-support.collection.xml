@@ -1,0 +1,72 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col26363</md:content-id>
+    <md:title>Elementary Statistics Support</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>353a4484-f901-4d99-8bbc-c726aef6ec0e</md:uuid>
+<md:slug>elementary-statistics-support</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Preliminaries</md:title>
+      <col:content>
+        <col:module document="m18874"/>
+        <col:module document="m35030"/>
+        <col:module document="m21895"/>
+        <col:module document="m18872"/>
+        <col:module document="m71639"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Operations with Real Numbers</md:title>
+      <col:content>
+        <col:module document="m71641"/>
+        <col:module document="m71642"/>
+        <col:module document="m21872"/>
+        <col:module document="m21881"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Ordering of Real Numbers</md:title>
+      <col:content>
+        <col:module document="m53173"/>
+        <col:module document="m71644"/>
+        <col:module document="m65172"/>
+        <col:module document="m71645"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Order of Operations</md:title>
+      <col:content>
+        <col:module document="m71646"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Ratios, Proportions, Percents, and Percentiles</md:title>
+      <col:content>
+        <col:module document="m71649"/>
+        <col:module document="m71643"/>
+        <col:module document="m66763"/>
+        <col:module document="m62212"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Lines and Graphs</md:title>
+      <col:content>
+        <col:module document="m71648"/>
+        <col:module document="m65294"/>
+        <col:module document="m71647"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Miscellaneous Topics</md:title>
+      <col:content>
+        <col:module document="m62534"/>
+        <col:module document="m53060"/>
+        <col:module document="m62524"/>
+        <col:module document="m62532"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>

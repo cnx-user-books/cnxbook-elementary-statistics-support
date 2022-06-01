@@ -1,0 +1,113 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Review of Interval Notation</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m71644</md:content-id>
+  <md:title>Review of Interval Notation</md:title>
+  <md:abstract>An introductory explanation on how to use interval notation (versus set notation)</md:abstract>
+  <md:uuid>c546b0f0-a066-4ce7-9e4a-58f997d1f51d</md:uuid>
+</metadata>
+
+<content>
+
+<para id="id48768002">Interval notation can be used to describe an interval on a number line using mathematical symbols. </para><para id="id34240787">An interval notation uses one of the following symbols along with the end points of the given interval:</para><list id="element-691" list-type="bulleted"><item>Open parentheses ( )</item>
+	<item>Closed parentheses [ ]</item>
+	<item>Infinity <m:math><m:apply>
+				<m:infinity/></m:apply></m:math>
+	</item>
+	<item>Negative Infinity <m:math><m:apply><m:minus/><m:infinity/></m:apply></m:math>
+	</item>
+<item>Union Sign
+<m:math><m:apply><m:union/></m:apply></m:math> (Note: <m:math><m:apply><m:union/></m:apply></m:math> symbol can be replaced by the word "OR")
+</item>
+</list><para id="element-82">Interval notation uses the end points of a given interval along with either square brackets "[ or ]" or regular parenthesis "( or )". A square bracket is used to indicate that the interval includes the endpoint whereas a regular parenthesis indicates that the endpoint is excluded from the interval. Since <m:math><m:apply><m:infinity/></m:apply></m:math> is not a number, we use ( or ) to describe intervals that extend to either positive or negative <m:math><m:apply><m:infinity/></m:apply></m:math>. If the interval goes on forever to the left, the interval notation will start with ( <m:math><m:apply><m:minus/><m:infinity/></m:apply></m:math>. If the interval goes on forever at the right, interval notation will end with <m:math><m:apply><m:infinity/></m:apply></m:math>).</para><para id="element-810">Whenever there is a break in the interval, write the interval up to the point. Then write another interval for the section of the graph after that part. Put a union sign between each interval to "join" them together.</para><para id="element-197"> Now for some practice so you can see if any of this makes sense. </para><para id="element-625">Write the following using interval notation:</para><exercise id="element-688"><problem id="idm174832">
+<figure id="element-31"><media id="idp1471264" alt=""><image src="../../media/1_1.png" mime-type="image/png"/></media></figure></problem>
+
+<solution id="idm7655072">
+<para id="element-509"><m:math>
+	<m:interval closure="closed-open">
+	<m:cn>0</m:cn>
+	<m:apply><m:infinity/></m:apply>
+	</m:interval>
+</m:math></para>
+</solution></exercise><exercise id="element-916"><problem id="idm6920320">
+		<figure id="element-358"><media id="idm5967584" alt=""><image src="../../media/1_2.png" mime-type="image/png"/></media></figure>
+	</problem>
+
+	<solution id="idp2105728">
+		<para id="element-440"><m:math>
+	<m:apply><m:union/>
+		<m:interval closure="open-closed">
+			<m:apply><m:minus/><m:infinity/></m:apply>
+			<m:apply><m:minus/><m:cn>2</m:cn></m:apply>
+		</m:interval>
+		<m:interval closure="open">
+			<m:cn>1</m:cn>
+			<m:apply><m:infinity/></m:apply>	
+		</m:interval>
+	</m:apply>
+</m:math></para>
+	</solution>
+</exercise><exercise id="element-606"><problem id="idm6964208">
+		<figure id="element-246"><media id="idp1783872" alt=""><image src="../../media/1_3.png" mime-type="image/png"/></media></figure>
+	</problem>
+
+	<solution id="idp3576192">
+		<para id="element-386"><m:math>
+<m:interval closure="open-closed">
+<m:apply><m:minus/><m:cn>5</m:cn></m:apply>
+<m:cn>2</m:cn>
+</m:interval>
+</m:math></para>
+	</solution>
+</exercise><exercise id="element-126"><problem id="idp1427856">
+		<figure id="element-485"><media id="idm7719312" alt=""><image src="../../media/1_4.png" mime-type="image/png"/></media></figure>
+	</problem>
+
+	<solution id="idp474400">
+		<para id="element-742"><m:math>
+	<m:apply><m:union/>
+		<m:interval closure="open-closed">
+			<m:apply><m:minus/><m:infinity/></m:apply>
+			<m:apply><m:minus/><m:cn>2</m:cn></m:apply>
+		</m:interval>
+		<m:interval closure="open">
+			<m:cn>0</m:cn>
+			<m:cn>2</m:cn>	
+		</m:interval>
+		<m:interval closure="open">
+			<m:cn>4</m:cn>
+			<m:apply><m:infinity/></m:apply>	
+		</m:interval>
+	</m:apply>
+</m:math></para>
+	</solution>
+</exercise><exercise id="element-664"><problem id="idp1040736">
+		<figure id="element-478"><media id="idp4080352" alt=""><image src="../../media/1_5.png" mime-type="image/png"/></media></figure>
+	</problem>
+
+	<solution id="idm7073088">
+		<para id="element-203"><m:math>
+<m:apply><m:union/>
+	<m:list><m:apply><m:minus/><m:cn>1</m:cn></m:apply></m:list>
+	<m:interval closure="closed-open">
+		<m:cn>3</m:cn>
+		<m:apply><m:infinity/></m:apply>
+	</m:interval>
+</m:apply>
+</m:math>
+		</para>
+	</solution>
+</exercise><exercise id="element-416"><problem id="idp2441584">
+		<figure id="element-854"><media id="idp6251072" alt=""><image src="../../media/1_6.png" mime-type="image/png"/></media></figure>
+	</problem>
+
+	<solution id="idm13296">
+		<para id="element-101"><m:math>
+	<m:interval closure="open-closed">
+		<m:apply><m:minus/><m:infinity/></m:apply>
+		<m:cn>3</m:cn>
+	</m:interval>
+</m:math></para>
+	</solution>
+</exercise></content>
+</document>
